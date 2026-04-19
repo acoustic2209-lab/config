@@ -1,0 +1,1262 @@
+WEBVTT
+
+[Script Info]
+; This is an Advanced Sub Station Alpha v4+ script.
+Title: 
+ScriptType: v4.00+
+PlayDepth: 0
+ScaledBorderAndShadow: Yes
+PlayResX: 1920
+PlayResY: 808
+
+[V4+ Styles]
+Format: Name. Fontname. Fontsize. PrimaryColour. SecondaryColour. OutlineColour. BackColour. Bold. Italic. Underline. StrikeOut. ScaleX. ScaleY. Spacing. Angle. BorderStyle. Outline. Shadow. Alignment. MarginL. MarginR. MarginV. Encoding
+Style: Default.Calibri.60.&H00FFFFFF.&H0000FFFF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.3.1.1.2.10.10.35.1
+Style: Vertical.Bahnschrift SemiCondensed.46.&H00FFFFFF.&H0000FFFF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.3.1.1.2.10.10.640.1
+Style: Vert Long.Bahnschrift Light SemiCondensed.40.&H00FFFFFF.&H0000FFFF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.3.1.1.2.10.10.400.1
+
+[Events]
+Format: Layer. Start. End. Style. Name. MarginL. MarginR. MarginV. Effect. Text
+Dialogue: 0.0:01:55.28.0:01:56.74.Default..0.0.0..Fifty years ago
+Dialogue: 0.0:01:56.87.0:01:59.07.Default..0.0.0..Lei Pak-san built an empire
+Dialogue: 0.0:01:59.20.0:02:00.53.Default..0.0.0..on illicit drug profits.
+Dialogue: 0.0:02:00.66.0:02:03.11.Default..0.0.0..founding the famous Kiu Yin Group.
+Dialogue: 0.0:02:03.24.0:02:04.57.Default..0.0.0..Despite the facade
+Dialogue: 0.0:02:04.66.0:02:06.53.Default..0.0.0..Kiu Yin remained the city's
+Dialogue: 0.0:02:06.62.0:02:09.41.Default..0.0.0..largest shadow drug supplier.
+Dialogue: 0.0:02:09.91.0:02:12.32.Default..0.0.0..Police raided the group in 1994
+Dialogue: 0.0:02:12.45.0:02:14.61.Default..0.0.0..to combat the drug crisis.
+Dialogue: 0.0:02:14.82.0:02:17.49.Default..0.0.0..detaining Lei Pak-san at GW Hospital.
+Dialogue: 0.0:02:17.62.0:02:21.03.Default..0.0.0..With stakes rising
+Dialogue: 0.0:02:21.16.0:02:23.24.Default..0.0.0..Kiu Yin publicly claimed
+Dialogue: 0.0:02:23.45.0:02:25.53.Default..0.0.0..he was hospitalized for illness.
+Dialogue: 0.0:02:26.28.0:02:28.11.Default..0.0.0..Because of his age
+Dialogue: 0.0:02:28.24.0:02:31.07.Default..0.0.0..the city whispered of succession.
+Dialogue: 0.0:02:31.20.0:02:34.99.Default..0.0.0..Who would claim the crown?
+Dialogue: 0.0:02:35.28.0:02:38.28.Default..0.0.0..Lei Pak-san had two sons.
+Dialogue: 0.0:02:38.41.0:02:40.32.Default..0.0.0..The eldest. Lei Man-dik
+Dialogue: 0.0:02:40.53.0:02:42.41.Default..0.0.0..was a fugitive drug trafficker.
+Dialogue: 0.0:02:44.20.0:02:47.20.Default..0.0.0..The city focused on the younger
+Dialogue: 0.0:02:47.32.0:02:50.74.Default..0.0.0..educated Lei Mou-tung.
+Dialogue: 0.0:02:50.87.0:02:54.95.Default..0.0.0..who took temporary control
+Dialogue: 0.0:02:55.07.0:02:59.57.Default..0.0.0..after his father's arrest.
+Dialogue: 0.0:03:06.79.0:03:07.75.Default..0.0.0..Lights.
+Dialogue: 0.0:03:07.75.0:03:09.92.Default..0.0.0..Good morning. Mr. Lei.
+Dialogue: 0.0:04:46.50.0:04:47.79.Default..0.0.0..Dad.
+Dialogue: 0.0:04:48.50.0:04:51.08.Default..0.0.0..Sei-yan is pregnant.
+Dialogue: 0.0:04:52.83.0:04:55.62.Default..0.0.0..Did you find Man-dik?
+Dialogue: 0.0:04:56.71.0:04:58.04.Default..0.0.0..I'm still looking.
+Dialogue: 0.0:04:58.04.0:05:00.58.Default..0.0.0..Why is it taking so long?
+Dialogue: 0.0:05:02.42.0:05:04.58.Default..0.0.0..Even with all our resources?
+Dialogue: 0.0:05:05.58.0:05:08.71.Default..0.0.0..Your brother is a wanted man
+Dialogue: 0.0:05:08.88.0:05:11.08.Default..0.0.0..because of us.
+Dialogue: 0.0:05:11.17.0:05:12.58.Default..0.0.0..Do you understand?
+Dialogue: 0.0:05:12.67.0:05:14.04.Default..0.0.0..I do.
+Dialogue: 0.0:05:24.83.0:05:27.37.Default..0.0.0..Get some rest. Dad.
+Dialogue: 0.0:05:27.58.0:05:28.46.Default..0.0.0..I'll return tomorrow.
+Dialogue: 0.0:05:28.46.0:05:31.29.Default..0.0.0..Cops are everywhere
+Dialogue: 0.0:05:31.29.0:05:32.62.Default..0.0.0..don't bother.
+Dialogue: 0.0:05:33.04.0:05:34.79.Default..0.0.0..Only return once you find Man-dik.
+Dialogue: 0.0:05:36.71.0:05:37.62.Default..0.0.0..Fine.
+Dialogue: 0.0:06:06.88.0:06:10.57.Default..0.0.0..{\i1}1 times 1 is 1. 1 times 2 is 2.{\i0}
+Dialogue: 0.0:06:10.59.0:06:14.51.Default..0.0.0..{\i1}2 times 2 is 4. 1 times 3 is 3.{\i0}
+Dialogue: 0.0:06:14.53.0:06:18.31.Default..0.0.0..{\i1}2 times 3 is 6. 3 times 3 is 9.{\i0}
+Dialogue: 0.0:06:18.33.0:06:22.62.Default..0.0.0..{\i1}1 times 4 is 4. 2 times 4 is 8.{\i0}
+Dialogue: 0.0:07:48.83.0:07:49.96.Default..0.0.0..I'm Wong Chi-tat.
+Dialogue: 0.0:07:49.96.0:07:50.96.Default..0.0.0..Narcotics Bureau.
+Dialogue: 0.0:07:53.08.0:07:57.08.Default..0.0.0..Single father. terminally ill daughter.
+Dialogue: 0.0:07:57.08.0:08:02.04.Default..0.0.0..Two masked gunmen. heavily armed.
+Dialogue: 0.0:08:02.04.0:08:05.08.Default..0.0.0..SWAT is short-staffed.
+Dialogue: 0.0:08:05.08.0:08:08.71.Default..0.0.0..An ambulance crashed nearby.
+Dialogue: 0.0:08:08.71.0:08:13.42.Default..0.0.0..Medical equipment was looted.
+Dialogue: 0.0:08:13.42.0:08:15.83.Default..0.0.0..Narcotics must save the driver
+Dialogue: 0.0:08:15.83.0:08:20.08.Default..0.0.0..and recover the stolen supplies.
+Dialogue: 0.0:08:20.54.0:08:22.83.Default..0.0.0..Davy. I need those meds.
+Dialogue: 0.0:08:24.29.0:08:25.87.Default..0.0.0..What? Out of stock?
+Dialogue: 0.0:08:26.63.0:08:28.58.Default..0.0.0..Even the inhalers?
+Dialogue: 0.0:08:30.46.0:08:32.71.Default..0.0.0..Two days for two inhalers?
+Dialogue: 0.0:08:33.96.0:08:36.46.Default..0.0.0..I want two boxes in thirty minutes.
+Dialogue: 0.0:08:37.04.0:08:40.33.Default..0.0.0..I'll take a finger for every time my daughter wheezes.
+Dialogue: 0.0:08:46.79.0:08:48.58.Default..0.0.0..Chief. the gunman's in the middle of the road.
+Dialogue: 0.0:08:48.58.0:08:49.71.Default..0.0.0..It's all fate.
+Dialogue: 0.0:09:41.33.0:09:41.96.Default..0.0.0..Don't!
+Dialogue: 0.0:11:58.67.0:12:01.08.Default..0.0.0..{\i1}2 times 7 is 14. 3 times 7 is 21.{\i0}
+Dialogue: 0.0:12:01.13.0:12:03.21.Default..0.0.0..{\i1}4 times 7 is 28. 5 times 7 is 35.{\i0}
+Dialogue: 0.0:12:03.29.0:12:05.54.Default..0.0.0..{\i1}6 times 7 is 42. 7 times 7 is 49.{\i0}
+Dialogue: 0.0:12:05.67.0:12:07.92.Default..0.0.0..{\i1}7 times 8 is 56. 7 times 9 is 63.{\i0}
+Dialogue: 0.0:12:09.17.0:12:11.42.Default..0.0.0..{\i1}2 times 8 is 16. 3 times 8 is 24.{\i0}
+Dialogue: 0.0:12:11.46.0:12:13.83.Default..0.0.0..{\i1}4 times 8 is 32. 5 times 8 is 40.{\i0}
+Dialogue: 0.0:12:14.04.0:12:16.21.Default..0.0.0..{\i1}6 times 8 is 48. 7 times 8 is 56.{\i0}
+Dialogue: 0.0:12:16.21.0:12:17.67.Default..0.0.0..{\i1}8 times 8 is 64.{\i0}
+Dialogue: 0.0:12:19.17.0:12:21.54.Default..0.0.0..{\i1}8 times 9 is 72. 3 times 9 is 27.{\i0}
+Dialogue: 0.0:12:21.54.0:12:24.12.Default..0.0.0..{\i1}4 times 9 is 36. 5 times 9 is 45.{\i0}
+Dialogue: 0.0:12:24.13.0:12:25.67.Default..0.0.0..{\i1}8 times 9 is 54.{\i0}
+Dialogue: 0.0:12:26.88.0:12:29.46.Default..0.0.0..{\i1}7 times 9 is 63. 8 times 9 is 72.{\i0}
+Dialogue: 0.0:12:57.71.0:12:58.71.Default..0.0.0..Excuse me.
+Dialogue: 0.0:12:59.38.0:13:00.04.Default..0.0.0..This way.
+Dialogue: 0.0:13:00.07.0:13:01.90.Default..0.0.0..What's the situation outside?
+Dialogue: 0.0:13:02.38.0:13:05.37.Default..0.0.0..It's chaotic. many injured.
+Dialogue: 0.0:13:05.71.0:13:08.12.Default..0.0.0..The hospital is overloaded.
+Dialogue: 0.0:13:08.13.0:13:09.71.Default..0.0.0..The blood bank is dry.
+Dialogue: 0.0:13:09.71.0:13:10.87.Default..0.0.0..Where is this ambulance headed?
+Dialogue: 0.0:13:10.88.0:13:12.33.Default..0.0.0..GW Hospital.
+Dialogue: 0.0:13:32.33.0:13:36.29.Default..0.0.0..I applied for a transfer. by the way.
+Dialogue: 0.0:13:38.46.0:13:40.67.Default..0.0.0..Were you coerced?
+Dialogue: 0.0:13:40.67.0:13:42.62.Default..0.0.0..No. it's voluntary.
+Dialogue: 0.0:13:42.63.0:13:47.46.Default..0.0.0..Given the chaos. the sooner the better.
+Dialogue: 0.0:13:48.13.0:13:49.67.Default..0.0.0..Where are you going?
+Dialogue: 0.0:13:52.13.0:13:54.12.Default..0.0.0..Wherever.
+Dialogue: 0.0:13:54.13.0:13:55.71.Default..0.0.0..Maybe guarding a reservoir.
+Dialogue: 0.0:13:56.42.0:13:58.17.Default..0.0.0..Nice. plenty of time to fish.
+Dialogue: 0.0:14:00.42.0:14:03.12.Default..0.0.0..Tell me when our goods are sold.
+Dialogue: 0.0:14:04.17.0:14:07.33.Default..0.0.0..If I don't hear from you...
+Dialogue: 0.0:14:10.17.0:14:12.21.Default..0.0.0..expect a visit.
+Dialogue: 0.0:14:12.23.0:14:13.05.Default..0.0.0..{\i1}He won't make it.{\i0}
+Dialogue: 0.0:14:13.08.0:14:14.39.Default..0.0.0..{\i1}How far is the hospital?{\i0}
+Dialogue: 0.0:14:25.42.0:14:26.79.Default..0.0.0..Everyone.
+Dialogue: 0.0:14:26.96.0:14:28.96.Default..0.0.0..The hospital is full.
+Dialogue: 0.0:14:29.13.0:14:31.17.Default..0.0.0..No interviews.
+Dialogue: 0.0:14:31.42.0:14:36.46.Default..0.0.0..But I assure you. everything is under control.
+Dialogue: 0.0:15:11.70.0:15:14.37.Default..0.0.0..{\i1}Blood donations are this way.{\i0}
+Dialogue: 0.0:15:25.08.0:15:27.04.Default..0.0.0..{\i1}Stay calm. the doctor is coming.
+Dialogue: 0.0:15:27.07.0:15:29.07.Default..0.0.0..{\i1}Sir. no smoking here.
+Dialogue: 0.0:15:29.09.0:15:30.45.Default..0.0.0..{\i1}Where is the ICU?
+Dialogue: 0.0:15:32.33.0:15:33.58.Default..0.0.0..Sorry.
+Dialogue: 0.0:15:34.13.0:15:35.58.Default..0.0.0..I didn't mean to scare you.
+Dialogue: 0.0:15:36.58.0:15:39.29.Default..0.0.0..Everything will be fine.
+Dialogue: 0.0:15:39.29.0:15:42.17.Default..0.0.0..Can we start over with a clean slate?
+Dialogue: 0.0:15:58.29.0:16:01.79.Default..0.0.0..Few knew Lei Pak-san was here.
+Dialogue: 0.0:16:01.79.0:16:05.58.Default..0.0.0..His arrest was strictly confidential.
+Dialogue: 0.0:16:05.58.0:16:09.29.Default..0.0.0..We're investigating if the attack
+Dialogue: 0.0:16:09.29.0:16:11.87.Default..0.0.0..targeted him or was a coincidence.
+Dialogue: 0.0:16:11.88.0:16:13.54.Default..0.0.0..Our image and reputation
+Dialogue: 0.0:16:13.54.0:16:15.12.Default..0.0.0..were ruined
+Dialogue: 0.0:16:15.13.0:16:18.79.Default..0.0.0..in just hours.
+Dialogue: 0.0:16:18.79.0:16:22.58.Default..0.0.0..With 2.300 people hospitalized
+Dialogue: 0.0:16:22.58.0:16:24.33.Default..0.0.0..the blood bank collapsed.
+Dialogue: 0.0:16:24.33.0:16:27.79.Default..0.0.0..Then the hospital bombing followed.
+Dialogue: 0.0:16:28.21.0:16:29.29.Default..0.0.0..The two shooters were
+Dialogue: 0.0:16:29.29.0:16:33.21.Default..0.0.0..Leung Gam-cheung of the Wah Hing gang
+Dialogue: 0.0:16:33.58.0:16:36.67.Default..0.0.0..and Siu Chi-man. an unstable ex-member
+Dialogue: 0.0:16:37.08.0:16:39.08.Default..0.0.0..with with an alleged psychiatric history
+Dialogue: 0.0:16:39.08.0:16:41.12.Default..0.0.0..and violent behavior.
+Dialogue: 0.0:16:41.58.0:16:43.21.Default..0.0.0..What about the explosion?
+Dialogue: 0.0:16:44.04.0:16:45.62.Default..0.0.0..Still under investigation.
+Dialogue: 0.0:16:45.71.0:16:46.92.Default..0.0.0..Pathetic.
+Dialogue: 0.0:16:46.92.0:16:48.08.Default..0.0.0..And the Narcotics Bureau?
+Dialogue: 0.0:16:49.42.0:16:51.42.Default..0.0.0..We lost contact with our mole
+Dialogue: 0.0:16:51.79.0:16:54.04.Default..0.0.0..in Wah Hing days ago.
+Dialogue: 0.0:16:54.04.0:16:56.62.Default..0.0.0..Do you mean Mak Jun-yin?
+Dialogue: 0.0:16:56.63.0:16:57.71.Default..0.0.0..Yes.
+Dialogue: 0.0:16:59.29.0:17:00.87.Default..0.0.0..At 18:59. we received a call
+Dialogue: 0.0:17:00.88.0:17:04.21.Default..0.0.0..on the hotline and transferred it
+Dialogue: 0.0:17:04.21.0:17:08.17.Default..0.0.0..to the CIB (Criminal Intelligence Bureau).
+Dialogue: 0.0:17:08.17.0:17:09.54.Default..0.0.0..Listen.
+Dialogue: 0.0:17:10.33.0:17:12.87.Default..0.0.0..{\i1}911. how can I help?{\i0}
+Dialogue: 0.0:17:12.88.0:17:14.04.Default..0.0.0..{\i1}Gan Fung-chuen.{\i0}
+Dialogue: 0.0:17:14.04.0:17:17.67.Default..0.0.0..{\i1}28. married with a son.{\i0}
+Dialogue: 0.0:17:17.67.0:17:20.92.Default..0.0.0..{\i1}- Wong Wing-ming. 33 yrs old.\N- Hello?{\i0}
+Dialogue: 0.0:17:21.29.0:17:24.20.Default..0.0.0..{\i1}girlfriend. Lam Hei-yi.{\i0}
+Dialogue: 0.0:17:24.67.0:17:28.17.Default..0.0.0..{\i1}Chan Fai-fung. alias Phoenix.{\i0}
+Dialogue: 0.0:17:28.52.0:17:30.35.Default..0.0.0..{\i1}34. a Wah Hing enforcer.{\i0}
+Dialogue: 0.0:17:30.38.0:17:33.42.Default..0.0.0..{\i1}Hello. sir?{\i0}
+Dialogue: 0.0:17:34.08.0:17:38.78.Default..0.0.0..{\i1}- Lam Hing-sang. 32.\N- Sir. may I have your name?{\i0}
+Dialogue: 0.0:17:38.80.0:17:39.92.Default..0.0.0..{\i1}psychiatrist.{\i0}
+Dialogue: 0.0:17:39.94.0:17:43.83.Default..0.0.0..{\i1}Ho Gam-yiu. 25.{\i0}
+Dialogue: 0.0:17:44.16.0:17:45.92.Default..0.0.0..{\i1}an engineer.{\i0}
+Dialogue: 0.0:17:46.01.0:17:47.92.Default..0.0.0..{\i1}What is your address?{\i0}
+Dialogue: 0.0:17:48.06.0:17:50.65.Default..0.0.0..{\i1}Can I truly start over?{\i0}
+Dialogue: 0.0:17:54.29.0:17:57.10.Default..0.0.0..{\i1}- Hello?\N- Undercover Officer Mak Jun-yin.{\i0}
+Dialogue: 0.0:17:57.12.0:18:01.06.Default..0.0.0..{\i1}ID 5771. Narcotics Bureau.{\i0}
+Dialogue: 0.0:18:01.08.0:18:03.41.Default..0.0.0..{\i1}Supervisor. Wong Chi-tat.{\i0}
+Dialogue: 0.0:18:04.30.0:18:09.42.Default..0.0.0..{\i1}It's March 18. 1994. 18:59.{\i0}
+Dialogue: 0.0:18:09.45.0:18:11.52.Default..0.0.0..{\i1}Starting today.{\i0}
+Dialogue: 0.0:18:11.54.0:18:13.33.Default..0.0.0..{\i1}I officially resign.{\i0}
+Dialogue: 0.0:18:13.71.0:18:14.33.Default..0.0.0..{\i1}Hello?{\i0}
+Dialogue: 0.0:18:14.33.0:18:15.54.Default..0.0.0..Tat?
+Dialogue: 0.0:18:18.46.0:18:21.12.Default..0.0.0..Mak was my undercover in Wah Hing.
+Dialogue: 0.0:18:21.71.0:18:24.17.Default..0.0.0..The man on the screen.
+Dialogue: 0.0:18:26.71.0:18:29.96.Default..0.0.0..The hospital was in chaos.
+Dialogue: 0.0:18:31.33.0:18:33.33.Default..0.0.0..I didn't...
+Dialogue: 0.0:18:35.04.0:18:37.58.Default..0.0.0..I'm sorry. I didn't see him.
+Dialogue: 0.0:18:39.29.0:18:41.83.Default..0.0.0..Can I start over?
+Dialogue: 0.0:18:41.83.0:18:44.42.Default..0.0.0..The names he listed...
+Dialogue: 0.0:18:45.67.0:18:47.46.Default..0.0.0..those were
+Dialogue: 0.0:18:50.63.0:18:54.29.Default..0.0.0..Mak's various undercover personas.
+Dialogue: 0.0:18:54.71.0:18:58.17.Default..0.0.0..Fictitious identities for his cases.
+Dialogue: 0.0:18:58.38.0:19:00.29.Default..0.0.0..They are all the same man.
+Dialogue: 0.0:19:01.54.0:19:04.83.Default..0.0.0..Why did he name them?
+Dialogue: 0.0:19:05.04.0:19:07.87.Default..0.0.0..Ask a psychiatrist. I've no idea.
+Dialogue: 0.0:19:07.88.0:19:11.37.Default..0.0.0..He had eight consultations
+Dialogue: 0.0:19:11.38.0:19:15.67.Default..0.0.0..at the psychiatric hospital.
+Dialogue: 0.0:19:16.58.0:19:21.87.Default..0.0.0..They diagnosed him with bipolar disorder 18 months ago.
+Dialogue: 0.0:19:22.04.0:19:23.17.Default..0.0.0..Were you aware?
+Dialogue: 0.0:19:23.21.0:19:24.17.Default..0.0.0..Yes.
+Dialogue: 0.0:19:24.29.0:19:29.04.Default..0.0.0..And you kept an unstable man active?
+Dialogue: 0.0:19:30.71.0:19:31.92.Default..0.0.0..I did.
+Dialogue: 0.0:19:33.54.0:19:37.04.Default..0.0.0..His network was too extensive
+Dialogue: 0.0:19:38.08.0:19:40.08.Default..0.0.0..to pull him
+Dialogue: 0.0:19:40.54.0:19:44.96.Default..0.0.0..on such short notice.
+Dialogue: 0.0:19:45.63.0:19:50.42.Default..0.0.0..So he remained undercover?
+Dialogue: 0.0:19:53.75.0:19:55.17.Default..0.0.0..How is it going?
+Dialogue: 0.0:19:57.21.0:19:58.37.Default..0.0.0..{\i1}Fine.{\i0}
+Dialogue: 0.0:19:58.46.0:20:00.29.Default..0.0.0..Define fine.
+Dialogue: 0.0:20:01.33.0:20:02.71.Default..0.0.0..Are you still tracking prices?
+Dialogue: 0.0:20:02.73.0:20:04.54.Default..0.0.0..{\i1}Will you attend my baby's party?{\i0}
+Dialogue: 0.0:20:04.63.0:20:07.33.Default..0.0.0..What baby celebration?
+Dialogue: 0.0:20:07.54.0:20:10.04.Default..0.0.0..Do you hear yourself?
+Dialogue: 0.0:20:10.55.0:20:14.13.Default..0.0.0..{\i1}I know it's sudden...{\i0}
+Dialogue: 0.0:20:15.13.0:20:17.71.Default..0.0.0..Gan Fung-chuen was the one with the baby.
+Dialogue: 0.0:20:18.33.0:20:20.92.Default..0.0.0..That case is closed. remember?
+Dialogue: 0.0:20:22.00.0:20:24.42.Default..0.0.0..Are you getting high now?
+Dialogue: 0.0:20:26.08.0:20:27.71.Default..0.0.0..I'll call back later.
+Dialogue: 0.0:20:27.71.0:20:29.92.Default..0.0.0..Hopefully you'll be sane by then.
+Dialogue: 0.0:20:30.00.0:20:31.92.Default..0.0.0..Don't forget your meds.
+Dialogue: 0.0:20:32.00.0:20:35.25.Default..0.0.0..Lei Mou-tung is on the 15th floor.
+Dialogue: 0.0:20:36.79.0:20:39.37.Default..0.0.0..The media is waiting below.
+Dialogue: 0.0:20:39.46.0:20:41.92.Default..0.0.0..We don't know what he'll say.
+Dialogue: 0.0:20:41.92.0:20:44.62.Default..0.0.0..One wrong statement
+Dialogue: 0.0:20:44.79.0:20:47.12.Default..0.0.0..will leave the government vulnerable.
+Dialogue: 0.0:20:47.13.0:20:48.83.Default..0.0.0..Vulnerable?
+Dialogue: 0.0:20:49.46.0:20:51.37.Default..0.0.0..Maybe you should resign.
+Dialogue: 0.0:20:57.92.0:21:01.33.Default..0.0.0..Man Kit. a former Chief Inspector
+Dialogue: 0.0:21:02.17.0:21:07.00.Default..0.0.0..has assisted us for years.
+Dialogue: 0.0:21:07.04.0:21:08.83.Default..0.0.0..I invited him back
+Dialogue: 0.0:21:08.83.0:21:10.46.Default..0.0.0..to help with this case.
+Dialogue: 0.0:21:10.71.0:21:11.96.Default..0.0.0..We know.
+Dialogue: 0.0:21:12.00.0:21:13.00.Default..0.0.0..Bullet.
+Dialogue: 0.0:21:17.38.0:21:20.17.Default..0.0.0..A hospital bombing by a rogue mole.
+Dialogue: 0.0:21:20.96.0:21:22.17.Default..0.0.0..Wong Chi-tat
+Dialogue: 0.0:21:22.54.0:21:23.62.Default..0.0.0..is number one.
+Dialogue: 0.0:21:25.33.0:21:26.75.Default..0.0.0..The Causeway Bay shooting
+Dialogue: 0.0:21:26.88.0:21:28.62.Default..0.0.0..and CIB intel failure...
+Dialogue: 0.0:21:29.50.0:21:30.58.Default..0.0.0..Leung Wing-chuen
+Dialogue: 0.0:21:31.38.0:21:32.42.Default..0.0.0..is number two.
+Dialogue: 0.0:21:34.29.0:21:37.79.Default..0.0.0..If the press learns Mak's ID
+Dialogue: 0.0:21:38.71.0:21:41.08.Default..0.0.0..Mak Jun-yin of PR
+Dialogue: 0.0:21:41.29.0:21:42.67.Default..0.0.0..is number three.
+Dialogue: 0.0:21:44.67.0:21:46.96.Default..0.0.0..If these three resign tomorrow
+Dialogue: 0.0:21:48.08.0:21:49.46.Default..0.0.0..the fault lies
+Dialogue: 0.0:21:50.38.0:21:52.33.Default..0.0.0..with the man who hired them.
+Dialogue: 0.0:22:02.67.0:22:03.71.Default..0.0.0..Uncle Gwai.
+Dialogue: 0.0:22:06.17.0:22:07.29.Default..0.0.0..{\i1}Gan Fung-chuen.{\i0}
+Dialogue: 0.0:22:07.54.0:22:09.04.Default..0.0.0..{\i1}28.{\i0}
+Dialogue: 0.0:22:09.29.0:22:11.04.Default..0.0.0..{\i1}married with a son.{\i0}
+Dialogue: 0.0:22:11.83.0:22:14.37.Default..0.0.0..{\i1}Wong Wing-ming. 33...{\i0}
+Dialogue: 0.0:22:14.38.0:22:16.00.Default..0.0.0..The media downstairs would
+Dialogue: 0.0:22:16.00.0:22:18.46.Default..0.0.0..love to hear this recording.
+Dialogue: 0.0:22:21.21.0:22:24.42.Default..0.0.0..We are the victims tonight.
+Dialogue: 0.0:22:25.25.0:22:28.67.Default..0.0.0..If Kiu Yin leaks this
+Dialogue: 0.0:22:29.54.0:22:34.04.Default..0.0.0..police must admit Lei Pak-san was
+Dialogue: 0.0:22:34.04.0:22:36.50.Default..0.0.0..detained on trafficking charges.
+Dialogue: 0.0:22:36.50.0:22:39.17.Default..0.0.0..Who'd expect the police to use
+Dialogue: 0.0:22:39.17.0:22:41.29.Default..0.0.0..such tactics to silence us?
+Dialogue: 0.0:22:42.33.0:22:47.04.Default..0.0.0..It's tragic that this hit your family.
+Dialogue: 0.0:22:47.04.0:22:49.75.Default..0.0.0..You kidnapped my father
+Dialogue: 0.0:22:50.79.0:22:55.17.Default..0.0.0..then your man killed him.
+Dialogue: 0.0:22:55.58.0:22:57.67.Default..0.0.0..Give me one good explanation.
+Dialogue: 0.0:22:58.63.0:23:02.42.Default..0.0.0..It was negligence. I'm here to fix it.
+Dialogue: 0.0:23:02.46.0:23:05.33.Default..0.0.0..If Lei Pak-san's drug trade
+Dialogue: 0.0:23:05.33.0:23:07.00.Default..0.0.0..is exposed
+Dialogue: 0.0:23:08.42.0:23:12.12.Default..0.0.0..Kiu Yin will suffer most.
+Dialogue: 0.0:23:12.33.0:23:14.17.Default..0.0.0..Your stock will plummet.
+Dialogue: 0.0:23:16.04.0:23:20.54.Default..0.0.0..This is your chance to start fresh.
+Dialogue: 0.0:23:20.79.0:23:23.37.Default..0.0.0..You act as if I have no choice.
+Dialogue: 0.0:23:23.71.0:23:25.08.Default..0.0.0..You do have a choice.
+Dialogue: 0.0:23:25.13.0:23:27.08.Default..0.0.0..Choose what's profitable
+Dialogue: 0.0:23:27.92.0:23:29.75.Default..0.0.0..over what's right.
+Dialogue: 0.0:23:30.00.0:23:34.79.Default..0.0.0..I'll hold the tape on one condition
+Dialogue: 0.0:23:35.83.0:23:37.62.Default..0.0.0..which I'll state later.
+Dialogue: 0.0:23:42.25.0:23:43.58.Default..0.0.0..Didn't you quit?
+Dialogue: 0.0:23:46.00.0:23:47.71.Default..0.0.0..Only buying.
+Dialogue: 0.0:23:48.67.0:23:50.50.Default..0.0.0..I have a patient at home.
+Dialogue: 0.0:23:54.38.0:23:55.67.Default..0.0.0..No smoking there.
+Dialogue: 0.0:24:07.13.0:24:08.42.Default..0.0.0..Thanks for the help.
+Dialogue: 0.0:24:11.75.0:24:16.00.Default..0.0.0..I'm used to cleaning up your mess.
+Dialogue: 0.0:24:21.21.0:24:23.00.Default..0.0.0..I spent 27 years in the force
+Dialogue: 0.0:24:24.88.0:24:27.29.Default..0.0.0..and ruined it in one night.
+Dialogue: 0.0:24:28.67.0:24:30.66.Default..0.0.0..It's fine.
+Dialogue: 0.0:24:30.68.0:24:33.67.Default..0.0.0..I was leaving with my daughter anyway.
+Dialogue: 0.0:24:33.75.0:24:35.67.Default..0.0.0..I'm just counting the days.
+Dialogue: 0.0:24:37.54.0:24:38.75.Default..0.0.0..Going where?
+Dialogue: 0.0:24:40.08.0:24:42.29.Default..0.0.0..Somewhere with fresh air.
+Dialogue: 0.0:24:49.92.0:24:52.37.Default..0.0.0..We knew Kiu Yin was smuggling.
+Dialogue: 0.0:24:52.38.0:24:55.37.Default..0.0.0..They control 80 percent of the port.
+Dialogue: 0.0:24:56.46.0:24:59.37.Default..0.0.0..Thousands of containers daily
+Dialogue: 0.0:24:59.75.0:25:01.75.Default..0.0.0..nonstop.
+Dialogue: 0.0:25:03.13.0:25:05.54.Default..0.0.0..We can't act without a warrant.
+Dialogue: 0.0:25:05.96.0:25:08.08.Default..0.0.0..Searching them all is impossible
+Dialogue: 0.0:25:10.83.0:25:13.33.Default..0.0.0..unless we shut the whole port down.
+Dialogue: 0.0:25:14.75.0:25:16.25.Default..0.0.0..Who would dare approve that?
+Dialogue: 0.0:25:20.33.0:25:25.54.Default..0.0.0..Lei Pak-san's arrest was a warning.
+Dialogue: 0.0:25:26.25.0:25:28.29.Default..0.0.0..Who could've predicted this?
+Dialogue: 0.0:25:33.17.0:25:36.46.Default..0.0.0..His eldest. Man-dik. is hiding.
+Dialogue: 0.0:25:37.29.0:25:39.42.Default..0.0.0..So this move was
+Dialogue: 0.0:25:40.08.0:25:43.00.Default..0.0.0..for Mou-tung?
+Dialogue: 0.0:25:44.79.0:25:46.25.Default..0.0.0..Not necessarily.
+Dialogue: 0.0:25:47.13.0:25:50.00.Default..0.0.0..Rumor says Lei Pak-san
+Dialogue: 0.0:25:50.75.0:25:54.71.Default..0.0.0..wants Man-dik to inherit the business.
+Dialogue: 0.0:26:00.04.0:26:01.87.Default..0.0.0..Take me to Sei-yan.
+Dialogue: 0.0:26:42.42.0:26:44.21.Default..0.0.0..The Chief is back.
+Dialogue: 0.0:26:52.21.0:26:54.12.Default..0.0.0..Chief is back.
+Dialogue: 0.0:26:59.75.0:27:01.37.Default..0.0.0..Chief.
+Dialogue: 0.0:27:06.96.0:27:09.08.Default..0.0.0..Search Mak's house again.
+Dialogue: 0.0:27:13.50.0:27:16.54.Default..0.0.0..{\i1}Bullet? He's just helping out.{\i0}
+Dialogue: 0.0:27:18.63.0:27:22.42.Default..0.0.0..It's illogical for the gunmen to be linked to Wah Hing.
+Dialogue: 0.0:27:23.42.0:27:26.75.Default..0.0.0..Kiu Yin would just withhold shipments
+Dialogue: 0.0:27:27.67.0:27:30.04.Default..0.0.0..until they surrendered.
+Dialogue: 0.0:27:33.25.0:27:35.75.Default..0.0.0..Someone is shifting focus
+Dialogue: 0.0:27:37.33.0:27:40.08.Default..0.0.0..making Pak's death look accidental.
+Dialogue: 0.0:27:44.54.0:27:46.17.Default..0.0.0..I want to know
+Dialogue: 0.0:27:46.17.0:27:49.67.Default..0.0.0..who supplied the guns and bombs?
+Dialogue: 0.0:27:50.08.0:27:51.37.Default..0.0.0..I want you
+Dialogue: 0.0:27:51.54.0:27:52.92.Default..0.0.0..{\i1}to start digging.{\i0}
+Dialogue: 0.0:27:52.96.0:27:53.92.Default..0.0.0..Sure.
+Dialogue: 0.0:27:54.88.0:27:56.54.Default..0.0.0..A shipment arrives tomorrow.
+Dialogue: 0.0:27:56.67.0:27:58.79.Default..0.0.0..{\i1}Drop it in the radioactive zone.{\i0}
+Dialogue: 0.0:27:58.96.0:28:00.83.Default..0.0.0..{\i1}Clear the cops first.{\i0}
+Dialogue: 0.0:28:01.20.0:28:02.57.Default..0.0.0..Got it. Uncle Gwai.
+Dialogue: 0.0:28:02.88.0:28:04.37.Default..0.0.0..Later.
+Dialogue: 0.0:28:08.79.0:28:10.67.Default..0.0.0..You're waking up late for a drink
+Dialogue: 0.0:28:10.75.0:28:12.71.Default..0.0.0..don't you think?
+Dialogue: 0.0:28:12.83.0:28:14.33.Default..0.0.0..Isn't there water by your bed?
+Dialogue: 0.0:28:38.00.0:28:41.58.Default..0.0.0..It's odd to sleep with a lighter in your pocket.
+Dialogue: 0.0:29:08.83.0:29:10.25.Default..0.0.0..{\i1}Shipment arrives tomorrow.{\i0}
+Dialogue: 0.0:29:10.33.0:29:11.50.Default..0.0.0..{\i1}The docks are frozen{\i0}
+Dialogue: 0.0:29:11.50.0:29:12.96.Default..0.0.0..{\i1}meet at the radioactive zone.{\i0}
+Dialogue: 0.0:29:13.42.0:29:16.37.Default..0.0.0..{\i1}Man-dik's dogs are coming to loot us.{\i0}
+Dialogue: 0.0:29:16.63.0:29:19.21.Default..0.0.0..{\i1}Ready the Cleaners.{\i0}
+Dialogue: 0.0:29:40.83.0:29:43.04.Default..0.0.0..What the hell...
+Dialogue: 0.0:29:43.67.0:29:46.04.Default..0.0.0..It's freezing.
+Dialogue: 0.0:29:48.08.0:29:50.29.Default..0.0.0..And how does this mask help?
+Dialogue: 0.0:29:52.04.0:29:55.12.Default..0.0.0..We're here because the docks froze.
+Dialogue: 0.0:29:57.83.0:29:59.58.Default..0.0.0..Isn't it radioactive?
+Dialogue: 0.0:29:59.71.0:30:02.04.Default..0.0.0..Exactly.
+Dialogue: 0.0:30:02.13.0:30:04.29.Default..0.0.0..No cops will follow.
+Dialogue: 0.0:30:04.38.0:30:07.92.Default..0.0.0..{\i1}Then why are we here?{\i0}
+Dialogue: 0.0:30:08.29.0:30:10.71.Default..0.0.0..{\i1}Word is Man-dik is desperate{\i0}
+Dialogue: 0.0:30:10.71.0:30:13.62.Default..0.0.0..{\i1}and stealing from his own family.{\i0}
+Dialogue: 0.0:30:13.63.0:30:15.67.Default..0.0.0..{\i1}Nothing new.{\i0}
+Dialogue: 0.0:30:16.54.0:30:18.96.Default..0.0.0..{\i1}It's their family business.{\i0}
+Dialogue: 0.0:30:19.04.0:30:21.54.Default..0.0.0..{\i1}Precisely. Theirs.{\i0}
+Dialogue: 0.0:30:21.54.0:30:22.96.Default..0.0.0..{\i1}not yours.{\i0}
+Dialogue: 0.0:30:23.08.0:30:24.87.Default..0.0.0..{\i1}Mind your own business.{\i0}
+Dialogue: 0.0:30:26.42.0:30:29.12.Default..0.0.0..{\i1}Can't you eat like a normal person?{\i0}
+Dialogue: 0.0:30:37.13.0:30:38.87.Default..0.0.0..What the?
+Dialogue: 0.0:30:38.92.0:30:40.12.Default..0.0.0..I'm starving.
+Dialogue: 0.0:30:40.17.0:30:43.58.Default..0.0.0..Eat noodles like the rest of us.
+Dialogue: 0.0:30:43.88.0:30:47.58.Default..0.0.0..{\i1}These supplements give me nutrition.{\i0}
+Dialogue: 0.0:30:47.83.0:30:49.79.Default..0.0.0..{\i1}These five vasoconstrictors{\i0}
+Dialogue: 0.0:30:49.79.0:30:53.71.Default..0.0.0..{\i1}control blood flow if I bleed.{\i0}
+Dialogue: 0.0:30:54.29.0:30:57.79.Default..0.0.0..You'd never understand.
+Dialogue: 0.0:30:58.04.0:30:58.87.Default..0.0.0..Right.
+Dialogue: 0.0:30:58.92.0:31:00.54.Default..0.0.0..{\i1}Tau Pei?{\i0}
+Dialogue: 0.0:31:09.38.0:31:10.96.Default..0.0.0..This jacket is new.
+Dialogue: 0.0:31:11.04.0:31:12.54.Default..0.0.0..{\i1}Chill... just playing.{\i0}
+Dialogue: 0.0:31:12.54.0:31:13.87.Default..0.0.0..That was my last cigarette.
+Dialogue: 0.0:31:13.88.0:31:15.71.Default..0.0.0..I have some. come get them.
+Dialogue: 0.0:31:15.71.0:31:17.21.Default..0.0.0..Piss off.
+Dialogue: 0.0:31:17.83.0:31:19.12.Default..0.0.0..I'm not climbing up there.
+Dialogue: 0.0:31:25.13.0:31:26.33.Default..0.0.0..Where's Fan Hang-fai?
+Dialogue: 0.0:31:26.79.0:31:28.46.Default..0.0.0..{\i1}He's coming.{\i0}
+Dialogue: 0.0:31:28.46.0:31:30.21.Default..0.0.0..{\i1}Don't rush him.{\i0}
+Dialogue: 0.0:31:30.21.0:31:32.17.Default..0.0.0..{\i1}He'll crash the van{\i0}
+Dialogue: 0.0:31:32.58.0:31:36.37.Default..0.0.0..{\i1}and we'll have to clean up.{\i0}
+Dialogue: 0.0:31:36.88.0:31:39.29.Default..0.0.0..{\i1}Again.{\i0}
+Dialogue: 0.0:31:48.33.0:31:51.17.Default..0.0.0..{\i1}Prep the cable car. it's here.{\i0}
+Dialogue: 0.0:31:53.29.0:31:56.42.Default..0.0.0..{\i1}Switch to Channel 102.{\i0}
+Dialogue: 0.0:31:56.83.0:31:58.08.Default..0.0.0..{\i1}Fan Hang-fai's arrived.{\i0}
+Dialogue: 0.0:32:11.17.0:32:12.12.Default..0.0.0..Man-dik's dogs too.
+Dialogue: 0.0:32:12.13.0:32:14.46.Default..0.0.0..Three cars approaching.
+Dialogue: 0.0:32:26.29.0:32:27.21.Default..0.0.0..Let's go.
+Dialogue: 0.0:32:41.29.0:32:42.42.Default..0.0.0..{\i1}One headed your way.{\i0}
+Dialogue: 0.0:32:42.58.0:32:44.08.Default..0.0.0..{\i1}ETA ten seconds.{\i0}
+Dialogue: 0.0:32:45.88.0:32:48.29.Default..0.0.0..Dogs are coming down.
+Dialogue: 0.0:32:56.88.0:32:58.54.Default..0.0.0..{\i1}They're using bows this time.{\i0}
+Dialogue: 0.0:32:58.83.0:32:59.96.Default..0.0.0..{\i1}Dogs coming up now.{\i0}
+Dialogue: 0.0:33:00.04.0:33:02.79.Default..0.0.0..{\i1}Keep back. They're out of range.{\i0}
+Dialogue: 0.0:33:59.38.0:34:00.29.Default..0.0.0..I need cover.
+Dialogue: 0.0:34:00.58.0:34:02.29.Default..0.0.0..{\i1}I've got you.{\i0}
+Dialogue: 0.0:34:03.04.0:34:04.17.Default..0.0.0..{\i1}Wait for the cue.{\i0}
+Dialogue: 0.0:34:25.08.0:34:26.58.Default..0.0.0..Steady...
+Dialogue: 0.0:34:45.27.0:34:46.71.Default..0.0.0..{\i1}Are you in position?{\i0}
+Dialogue: 0.0:34:47.92.0:34:49.62.Default..0.0.0..{\i1}On my way. hang on.{\i0}
+Dialogue: 0.0:36:12.42.0:36:15.79.Default..0.0.0..{\i1}What's a buff guy's destiny?{\i0}
+Dialogue: 0.0:36:15.83.0:36:17.83.Default..0.0.0..{\i1}Standing behind short guys forever.{\i0}
+Dialogue: 0.0:36:19.54.0:36:24.17.Default..0.0.0..Damn you. that's my joke.
+Dialogue: 0.0:36:24.63.0:36:27.12.Default..0.0.0..Hurry up. for God's sake.
+Dialogue: 0.0:36:28.88.0:36:30.46.Default..0.0.0..{\i1}Hey. I can't see you.{\i0}
+Dialogue: 0.0:36:31.00.0:36:32.46.Default..0.0.0..{\i1}Need a hand?{\i0}
+Dialogue: 0.0:36:34.58.0:36:36.33.Default..0.0.0..Asshole.
+Dialogue: 0.0:36:38.00.0:36:40.58.Default..0.0.0..Bingo.
+Dialogue: 0.0:37:02.96.0:37:04.42.Default..0.0.0..{\i1}Pardon?{\i0}
+Dialogue: 0.0:37:04.42.0:37:06.25.Default..0.0.0..{\i1}He asked if he should help.{\i0}
+Dialogue: 0.0:37:07.29.0:37:08.79.Default..0.0.0..{\i1}No.{\i0}
+Dialogue: 0.0:37:51.75.0:37:53.21.Default..0.0.0..{\i1}Done.{\i0}
+Dialogue: 0.0:38:04.88.0:38:06.75.Default..0.0.0..Wow. you made it.
+Dialogue: 0.0:38:11.88.0:38:13.17.Default..0.0.0..Holy shit.
+Dialogue: 0.0:38:14.71.0:38:16.17.Default..0.0.0..Leave her if she's dead.
+Dialogue: 0.0:38:16.25.0:38:18.42.Default..0.0.0..Don't ruin my car.
+Dialogue: 0.0:38:22.50.0:38:24.29.Default..0.0.0..Avoid the main roads.
+Dialogue: 0.0:38:24.29.0:38:27.29.Default..0.0.0..I don't want bodies
+Dialogue: 0.0:38:27.29.0:38:28.71.Default..0.0.0..falling out of your truck.
+Dialogue: 0.0:38:28.75.0:38:30.17.Default..0.0.0..You'll be in deep trouble then.
+Dialogue: 0.0:38:30.38.0:38:32.12.Default..0.0.0..- Whatever.\N- Now piss off.
+Dialogue: 0.0:39:01.54.0:39:03.71.Default..0.0.0..You. go.
+Dialogue: 0.0:39:17.83.0:39:19.25.Default..0.0.0..{\i1}The product is fine.{\i0}
+Dialogue: 0.0:39:19.27.0:39:20.73.Default..0.0.0..{\i1}We lost a few men.{\i0}
+Dialogue: 0.0:39:20.76.0:39:22.33.Default..0.0.0..{\i1}Man-dik is using archers now{\i0}
+Dialogue: 0.0:39:22.33.0:39:24.75.Default..0.0.0..{\i1}he clearly can't afford guns.{\i0}
+Dialogue: 0.0:39:25.68.0:39:27.25.Default..0.0.0..{\i1}Sounds like he's broke.{\i0}
+Dialogue: 0.0:39:28.10.0:39:29.48.Default..0.0.0..{\i1}You should talk to him.{\i0}
+Dialogue: 0.0:39:29.50.0:39:32.79.Default..0.0.0..{\i1}You are brothers after all.{\i0}
+Dialogue: 0.0:39:33.55.0:39:35.91.Default..0.0.0..{\i1}With your father gone{\i0}
+Dialogue: 0.0:39:35.93.0:39:38.16.Default..0.0.0..{\i1}it wouldn't hurt to fix things.{\i0}
+Dialogue: 0.0:39:50.17.0:39:53.08.Default..0.0.0..Uncle Gwai says they tried looting us again.
+Dialogue: 0.0:39:53.88.0:39:55.12.Default..0.0.0..Is everything okay?
+Dialogue: 0.0:39:55.29.0:39:56.21.Default..0.0.0..Yes.
+Dialogue: 0.0:39:57.50.0:39:59.42.Default..0.0.0..Man-dik's dogs again.
+Dialogue: 0.0:40:00.58.0:40:02.58.Default..0.0.0..It never ends.
+Dialogue: 0.0:40:02.67.0:40:04.29.Default..0.0.0..I'm not surprised.
+Dialogue: 0.0:40:04.63.0:40:05.96.Default..0.0.0..Right?
+Dialogue: 0.0:40:07.96.0:40:09.21.Default..0.0.0..Yeah.
+Dialogue: 0.0:40:11.13.0:40:12.79.Default..0.0.0..So...
+Dialogue: 0.0:40:12.83.0:40:14.37.Default..0.0.0..I want
+Dialogue: 0.0:40:14.42.0:40:15.79.Default..0.0.0..Man-dik to return.
+Dialogue: 0.0:40:20.17.0:40:23.00.Default..0.0.0..That's pointless.
+Dialogue: 0.0:40:24.83.0:40:27.50.Default..0.0.0..He's still a Lei.
+Dialogue: 0.0:40:27.75.0:40:29.54.Default..0.0.0..He should be at the funeral
+Dialogue: 0.0:40:29.67.0:40:32.00.Default..0.0.0..to respect our father.
+Dialogue: 0.0:40:34.50.0:40:35.46.Default..0.0.0..Then...
+Dialogue: 0.0:40:39.63.0:40:42.96.Default..0.0.0..we'll wait until you find him.
+Dialogue: 0.0:40:51.04.0:40:52.50.Default..0.0.0..When bad times are the norm
+Dialogue: 0.0:40:52.50.0:40:56.33.Default..0.0.0..And good times turn to dust
+Dialogue: 0.0:40:56.33.0:41:00.83.Default..0.0.0..Well. there'll never be enough
+Dialogue: 0.0:41:05.00.0:41:06.58.Default..0.0.0..Can I pawn myself?
+Dialogue: 0.0:41:06.67.0:41:10.17.Default..0.0.0..Sure. though you're worthless.
+Dialogue: 0.0:41:12.13.0:41:17.17.Default..0.0.0..Cash in the fridge. gear upstairs.
+Dialogue: 0.0:41:17.25.0:41:19.08.Default..0.0.0..Open the damn door.
+Dialogue: 0.0:41:21.63.0:41:24.62.Default..0.0.0..Five million dollar job. Interested?
+Dialogue: 0.0:41:24.83.0:41:27.67.Default..0.0.0..Again?
+Dialogue: 0.0:41:28.08.0:41:32.25.Default..0.0.0..Urgency sets the price. it's good money.
+Dialogue: 0.0:41:33.54.0:41:36.04.Default..0.0.0..Easy for you to say.
+Dialogue: 0.0:41:38.46.0:41:40.33.Default..0.0.0..Leave Yip out of this.
+Dialogue: 0.0:41:41.00.0:41:43.50.Default..0.0.0..She's still recovering.
+Dialogue: 0.0:41:43.67.0:41:45.00.Default..0.0.0..Baldy and I will handle it.
+Dialogue: 0.0:41:45.00.0:41:46.92.Default..0.0.0..How romantic.
+Dialogue: 0.0:41:47.04.0:41:50.17.Default..0.0.0..Sadly. she's required.
+Dialogue: 0.0:41:57.67.0:42:01.25.Default..0.0.0..Add 1.5 pounds to the recoil spring.
+Dialogue: 0.0:42:01.33.0:42:04.87.Default..0.0.0..The gun will explode.
+Dialogue: 0.0:42:06.96.0:42:09.67.Default..0.0.0..How about a bazooka next time?
+Dialogue: 0.0:42:09.67.0:42:11.67.Default..0.0.0..It would make my job easier.
+Dialogue: 0.0:42:12.46.0:42:15.33.Default..0.0.0..Why would I need you then?
+Dialogue: 0.0:42:17.38.0:42:20.17.Default..0.0.0..What was Uncle Ngai talking about?
+Dialogue: 0.0:42:26.46.0:42:28.33.Default..0.0.0..His paranoia's taking over.
+Dialogue: 0.0:42:28.33.0:42:29.96.Default..0.0.0..Questioning everything.
+Dialogue: 0.0:42:30.04.0:42:32.71.Default..0.0.0..It'll take an hour to get in next time.
+Dialogue: 0.0:42:32.75.0:42:35.87.Default..0.0.0..You're one to talk.
+Dialogue: 0.0:42:36.13.0:42:37.71.Default..0.0.0..I clean up this mess every time.
+Dialogue: 0.0:42:37.71.0:42:41.25.Default..0.0.0..Get lost. I'm babysitting tomorrow.
+Dialogue: 0.0:42:42.42.0:42:44.54.Default..0.0.0..Your grandson is sixteen.
+Dialogue: 0.0:42:44.71.0:42:46.29.Default..0.0.0..You aren't babysitting him.
+Dialogue: 0.0:42:46.33.0:42:49.67.Default..0.0.0..You're just stalking him.
+Dialogue: 0.0:42:50.88.0:42:53.17.Default..0.0.0..You've no one. you'll never understand.
+Dialogue: 0.0:42:53.25.0:42:55.79.Default..0.0.0..Every age has its worries.
+Dialogue: 0.0:43:02.42.0:43:04.00.Default..0.0.0..{\i1}How are we splitting the cash?{\i0}
+Dialogue: 0.0:43:04.42.0:43:06.46.Default..0.0.0..{\i1}Yip and Baldy get their shares.{\i0}
+Dialogue: 0.0:43:06.50.0:43:07.79.Default..0.0.0..I'll take half of mine.
+Dialogue: 0.0:43:08.67.0:43:12.08.Default..0.0.0..Give the rest to Tau Pei's family.
+Dialogue: 0.0:43:12.58.0:43:14.12.Default..0.0.0..{\i1}Where's Yip?{\i0}
+Dialogue: 0.0:43:14.17.0:43:15.00.Default..0.0.0..{\i1}Inside.{\i0}
+Dialogue: 0.0:43:25.42.0:43:29.17.Default..0.0.0..Do you ever plan how to spend the money?
+Dialogue: 0.0:43:30.04.0:43:31.37.Default..0.0.0..No.
+Dialogue: 0.0:43:35.46.0:43:37.17.Default..0.0.0..I doubt I'll live that long.
+Dialogue: 0.0:43:39.04.0:43:40.83.Default..0.0.0..Years ago...
+Dialogue: 0.0:43:42.42.0:43:45.46.Default..0.0.0..I made a mistake.
+Dialogue: 0.0:43:47.58.0:43:49.79.Default..0.0.0..I was too amateur
+Dialogue: 0.0:43:49.88.0:43:51.92.Default..0.0.0..to know the rules.
+Dialogue: 0.0:43:52.00.0:43:54.08.Default..0.0.0..I took an unclaimed job
+Dialogue: 0.0:43:54.13.0:43:56.75.Default..0.0.0..without thinking.
+Dialogue: 0.0:43:56.88.0:43:59.17.Default..0.0.0..Made my first 500k.
+Dialogue: 0.0:43:59.96.0:44:02.17.Default..0.0.0..I killed a man's family.
+Dialogue: 0.0:44:02.25.0:44:04.79.Default..0.0.0..A woman and three kids.
+Dialogue: 0.0:44:05.75.0:44:09.12.Default..0.0.0..I later learned the man was a cleaner.
+Dialogue: 0.0:44:11.29.0:44:13.04.Default..0.0.0..He...
+Dialogue: 0.0:44:13.17.0:44:15.25.Default..0.0.0..botched a job
+Dialogue: 0.0:44:15.42.0:44:16.83.Default..0.0.0..and got life.
+Dialogue: 0.0:44:20.13.0:44:22.12.Default..0.0.0..The boss feared he'd snitch
+Dialogue: 0.0:44:23.25.0:44:24.71.Default..0.0.0..so he contracted their deaths.
+Dialogue: 0.0:44:28.50.0:44:29.96.Default..0.0.0..Every job has rules.
+Dialogue: 0.0:44:31.71.0:44:33.25.Default..0.0.0..Killing a hitman's family
+Dialogue: 0.0:44:34.58.0:44:37.33.Default..0.0.0..is forbidden.
+Dialogue: 0.0:44:46.33.0:44:47.79.Default..0.0.0..But the guy
+Dialogue: 0.0:44:49.42.0:44:51.17.Default..0.0.0..never said a word.
+Dialogue: 0.0:44:55.38.0:44:56.62.Default..0.0.0..So I promised him
+Dialogue: 0.0:44:58.42.0:45:00.04.Default..0.0.0..that if he ever got out.
+Dialogue: 0.0:45:01.38.0:45:03.29.Default..0.0.0..I'd pay him with my life.
+Dialogue: 0.0:45:06.42.0:45:07.54.Default..0.0.0..You nutcase.
+Dialogue: 0.0:45:08.88.0:45:10.79.Default..0.0.0..Who uses their body as a shield?
+Dialogue: 0.0:45:10.88.0:45:13.25.Default..0.0.0..Luck runs out eventually.
+Dialogue: 0.0:45:15.13.0:45:16.92.Default..0.0.0..Don't be an idiot next time.
+Dialogue: 0.0:45:20.79.0:45:22.04.Default..0.0.0..If you get the chance
+Dialogue: 0.0:45:23.46.0:45:25.33.Default..0.0.0..find a normal job.
+Dialogue: 0.0:45:26.08.0:45:27.25.Default..0.0.0..In this work.
+Dialogue: 0.0:45:28.67.0:45:30.83.Default..0.0.0..it's kill or be killed.
+Dialogue: 0.0:45:31.63.0:45:33.08.Default..0.0.0..It's just a matter of time.
+Dialogue: 0.0:45:38.42.0:45:39.92.Default..0.0.0..I went to juvie
+Dialogue: 0.0:45:41.88.0:45:43.87.Default..0.0.0..at twelve.
+Dialogue: 0.0:45:45.63.0:45:48.00.Default..0.0.0..Who'd hire me after that?
+Dialogue: 0.0:45:48.83.0:45:53.58.Default..0.0.0..You guys are my family.
+Dialogue: 0.0:46:07.21.0:46:09.21.Default..0.0.0..I was pregnant at fourteen.
+Dialogue: 0.0:46:10.13.0:46:13.71.Default..0.0.0..He kicked me until I lost the baby.
+Dialogue: 0.0:46:15.00.0:46:17.54.Default..0.0.0..I stabbed him seventeen times.
+Dialogue: 0.0:46:35.08.0:46:36.58.Default..0.0.0..Iceland...
+Dialogue: 0.0:46:39.33.0:46:41.67.Default..0.0.0..he promised to take me there.
+Dialogue: 0.0:46:42.33.0:46:44.41.Default..0.0.0..How romantic.
+Dialogue: 0.0:46:44.54.0:46:47.87.Default..0.0.0..Always keep your word.
+Dialogue: 0.0:46:48.08.0:46:49.29.Default..0.0.0..Otherwise.
+Dialogue: 0.0:46:50.88.0:46:52.71.Default..0.0.0..you'll regret it.
+Dialogue: 0.0:48:15.83.0:48:18.12.Default..0.0.0..Family doesn't exist in this trade.
+Dialogue: 0.0:48:22.46.0:48:24.21.Default..0.0.0..Don't forget that.
+Dialogue: 0.0:48:24.33.0:48:25.83.Default..0.0.0..Baldy's getting food.
+Dialogue: 0.0:48:25.83.0:48:27.29.Default..0.0.0..Want anything?
+Dialogue: 0.0:48:32.92.0:48:34.17.Default..0.0.0..Chew.
+Dialogue: 0.0:48:35.50.0:48:36.46.Default..0.0.0..Sister Lui.
+Dialogue: 0.0:48:36.46.0:48:38.62.Default..0.0.0..He's in the bathroom.
+Dialogue: 0.0:48:38.96.0:48:40.50.Default..0.0.0..Yes.
+Dialogue: 0.0:48:40.50.0:48:42.92.Default..0.0.0..Should I have him call you back?
+Dialogue: 0.0:48:43.63.0:48:45.69.Default..0.0.0..Sure. no rush.
+Dialogue: 0.0:48:45.71.0:48:47.71.Default..0.0.0..See you later.
+Dialogue: 0.0:48:52.38.0:48:53.25.Default..0.0.0..Swallow.
+Dialogue: 0.0:49:01.38.0:49:02.25.Default..0.0.0..Ice.
+Dialogue: 0.0:49:09.71.0:49:10.54.Default..0.0.0..Over there.
+Dialogue: 0.0:49:10.54.0:49:12.08.Default..0.0.0..Divide the coke into lines.
+Dialogue: 0.0:49:44.71.0:49:46.58.Default..0.0.0..How dare you?
+Dialogue: 0.0:49:47.79.0:49:49.79.Default..0.0.0..Hundreds of guests are outside
+Dialogue: 0.0:49:50.13.0:49:51.83.Default..0.0.0..and you're high as a kite.
+Dialogue: 0.0:49:53.63.0:49:56.67.Default..0.0.0..Isn't our name tarnished enough?
+Dialogue: 0.0:50:15.21.0:50:17.42.Default..0.0.0..Take him to his room.
+Dialogue: 0.0:50:17.83.0:50:19.58.Default..0.0.0..Force-feed him Red Bulls.
+Dialogue: 0.0:50:20.21.0:50:22.54.Default..0.0.0..Don't let me see him until he's sober.
+Dialogue: 0.0:50:46.42.0:50:47.71.Default..0.0.0..Uncle Szeto.
+Dialogue: 0.0:50:48.67.0:50:49.62.Default..0.0.0..Uncle Gau.
+Dialogue: 0.0:50:50.75.0:50:51.75.Default..0.0.0..Uncle Lik.
+Dialogue: 0.0:50:53.00.0:50:54.12.Default..0.0.0..Uncle Fei.
+Dialogue: 0.0:50:56.08.0:50:57.08.Default..0.0.0..Uncle Chin.
+Dialogue: 0.0:50:59.38.0:51:00.33.Default..0.0.0..Uncle Gam.
+Dialogue: 0.0:51:02.38.0:51:03.46.Default..0.0.0..Uncle Kuen.
+Dialogue: 0.0:51:06.00.0:51:08.33.Default..0.0.0..On Kiu Yin's fiftieth anniversary
+Dialogue: 0.0:51:09.63.0:51:11.62.Default..0.0.0..celebration has turned to mourning.
+Dialogue: 0.0:51:12.42.0:51:16.87.Default..0.0.0..Mou-tung thanks you all for your years of service.
+Dialogue: 0.0:51:17.33.0:51:18.71.Default..0.0.0..A token of our appreciation.
+Dialogue: 0.0:51:18.71.0:51:21.37.Default..0.0.0..Man-dik may have gone rogue
+Dialogue: 0.0:51:21.58.0:51:24.42.Default..0.0.0..looting the family as he pleases.
+Dialogue: 0.0:51:24.54.0:51:26.79.Default..0.0.0..But the old man wanted
+Dialogue: 0.0:51:27.21.0:51:29.21.Default..0.0.0..Man-dik to inherit the empire.
+Dialogue: 0.0:51:29.54.0:51:31.58.Default..0.0.0..I can't pretend I didn't know.
+Dialogue: 0.0:51:35.00.0:51:36.42.Default..0.0.0..Uncle Gam.
+Dialogue: 0.0:51:36.63.0:51:38.33.Default..0.0.0..Take your time.
+Dialogue: 0.0:51:38.33.0:51:39.79.Default..0.0.0..I suggest you reconsider.
+Dialogue: 0.0:51:48.46.0:51:50.29.Default..0.0.0..We've dealt under the table
+Dialogue: 0.0:51:50.29.0:51:51.83.Default..0.0.0..for years
+Dialogue: 0.0:51:51.83.0:51:53.37.Default..0.0.0..and with extreme caution.
+Dialogue: 0.0:51:54.42.0:51:56.50.Default..0.0.0..Sei-yan is a smart girl.
+Dialogue: 0.0:51:56.50.0:51:58.54.Default..0.0.0..Legit.
+Dialogue: 0.0:51:58.54.0:52:00.87.Default..0.0.0..A pharmacist
+Dialogue: 0.0:52:01.50.0:52:03.25.Default..0.0.0..with a license to sell.
+Dialogue: 0.0:52:04.17.0:52:05.96.Default..0.0.0..Times have changed.
+Dialogue: 0.0:52:06.08.0:52:07.75.Default..0.0.0..I understand.
+Dialogue: 0.0:52:08.08.0:52:09.83.Default..0.0.0..Loyalty can't be bought.
+Dialogue: 0.0:52:15.50.0:52:17.79.Default..0.0.0..I don't need your help
+Dialogue: 0.0:52:18.88.0:52:21.04.Default..0.0.0..just stay out of his way.
+Dialogue: 0.0:52:22.54.0:52:24.04.Default..0.0.0..Even if we agree.
+Dialogue: 0.0:52:24.04.0:52:26.54.Default..0.0.0..Viper and Rodent won't.
+Dialogue: 0.0:52:26.54.0:52:28.17.Default..0.0.0..They are Kiu Yin's oldest employees.
+Dialogue: 0.0:52:28.17.0:52:30.62.Default..0.0.0..They respect Pak's wishes.
+Dialogue: 0.0:52:31.96.0:52:33.67.Default..0.0.0..They won't accept your bribe.
+Dialogue: 0.0:52:37.75.0:52:39.29.Default..0.0.0..Excuse me.
+Dialogue: 0.0:52:41.67.0:52:42.92.Default..0.0.0..Thank you for attending
+Dialogue: 0.0:52:42.92.0:52:45.42.Default..0.0.0..Kiu Yin Holdings' 50th anniversary.
+Dialogue: 0.0:52:45.42.0:52:47.21.Default..0.0.0..Following the recent events
+Dialogue: 0.0:52:47.21.0:52:49.50.Default..0.0.0..I'm donating 1.2 billion
+Dialogue: 0.0:52:49.50.0:52:52.75.Default..0.0.0..to rebuild GW Hospital in my father's name.
+Dialogue: 0.0:52:52.75.0:52:55.33.Default..0.0.0..I'm also establishing a fund
+Dialogue: 0.0:52:56.08.0:52:58.17.Default..0.0.0..for the bombing victims' families.
+Dialogue: 0.0:52:58.58.0:53:00.25.Default..0.0.0..I believe
+Dialogue: 0.0:53:00.46.0:53:02.67.Default..0.0.0..you rise from
+Dialogue: 0.0:53:02.67.0:53:04.71.Default..0.0.0..where you fall.
+Dialogue: 0.0:53:05.46.0:53:08.25.Default..0.0.0..In my father's youth
+Dialogue: 0.0:53:09.13.0:53:10.46.Default..0.0.0..survival
+Dialogue: 0.0:53:11.17.0:53:12.46.Default..0.0.0..was hard.
+Dialogue: 0.0:53:16.92.0:53:17.67.Default..0.0.0..Yes.
+Dialogue: 0.0:53:18.71.0:53:20.17.Default..0.0.0..the rumors
+Dialogue: 0.0:53:20.17.0:53:21.79.Default..0.0.0..are true.
+Dialogue: 0.0:53:22.67.0:53:24.54.Default..0.0.0..Parts of his business
+Dialogue: 0.0:53:26.21.0:53:27.75.Default..0.0.0..were not respectable
+Dialogue: 0.0:53:28.92.0:53:31.54.Default..0.0.0..and harmed society.
+Dialogue: 0.0:53:33.96.0:53:36.12.Default..0.0.0..I won't defend him.
+Dialogue: 0.0:53:37.25.0:53:38.54.Default..0.0.0..I only ask
+Dialogue: 0.0:53:39.50.0:53:43.08.Default..0.0.0..that you accept a new. better Kiu Yin.
+Dialogue: 0.0:53:55.04.0:53:56.79.Default..0.0.0..Care for a 50-year aged glass?
+Dialogue: 0.0:53:56.79.0:53:59.42.Default..0.0.0..I'm on duty.
+Dialogue: 0.0:53:59.42.0:54:00.92.Default..0.0.0..No. thank you.
+Dialogue: 0.0:54:09.17.0:54:11.92.Default..0.0.0..I'm ready to state my demands.
+Dialogue: 0.0:54:15.25.0:54:17.54.Default..0.0.0..I want Lei Man-dik
+Dialogue: 0.0:54:17.57.0:54:19.46.Default..0.0.0..permitted to return
+Dialogue: 0.0:54:19.46.0:54:21.71.Default..0.0.0..for the funeral.
+Dialogue: 0.0:54:24.38.0:54:27.12.Default..0.0.0..There's no precedent for letting
+Dialogue: 0.0:54:27.88.0:54:30.67.Default..0.0.0..a fugitive enter like this.
+Dialogue: 0.0:54:33.33.0:54:35.54.Default..0.0.0..There's also no precedent for
+Dialogue: 0.0:54:35.54.0:54:38.21.Default..0.0.0..police officers bombing hospitals.
+Dialogue: 0.0:54:42.63.0:54:44.58.Default..0.0.0..I can't decide this.
+Dialogue: 0.0:54:44.92.0:54:46.46.Default..0.0.0..I'll need time.
+Dialogue: 0.0:54:46.46.0:54:47.62.Default..0.0.0..The funeral
+Dialogue: 0.0:54:47.88.0:54:49.04.Default..0.0.0..is in 7 days.
+Dialogue: 0.0:54:49.13.0:54:50.71.Default..0.0.0..Regarding the time...
+Dialogue: 0.0:54:51.88.0:54:53.87.Default..0.0.0..shouldn't we first
+Dialogue: 0.0:54:55.29.0:54:56.46.Default..0.0.0..locate him?
+Dialogue: 0.0:54:56.71.0:54:58.58.Default..0.0.0..I know exactly where he is.
+Dialogue: 0.0:55:07.88.0:55:08.80.Default..0.0.0..Mr. Lei.
+Dialogue: 0.0:55:08.82.0:55:11.32.Default..0.0.0..I have one more matter.
+Dialogue: 0.0:55:11.67.0:55:15.21.Default..0.0.0..Can Ms. Lau assist our investigation?
+Dialogue: 0.0:55:18.13.0:55:19.54.Default..0.0.0..Why?
+Dialogue: 0.0:55:19.67.0:55:24.21.Default..0.0.0..She's a renowned psychiatrist.
+Dialogue: 0.0:55:24.21.0:55:27.92.Default..0.0.0..We need her input on the Mak case.
+Dialogue: 0.0:55:27.92.0:55:29.17.Default..0.0.0..Do you mind?
+Dialogue: 0.0:55:30.71.0:55:32.04.Default..0.0.0..Of course not.
+Dialogue: 0.0:55:32.88.0:55:34.67.Default..0.0.0..It's my pleasure.
+Dialogue: 0.0:55:40.63.0:55:44.79.Default..0.0.0..Mak was the suicide bomber at the hospital.
+Dialogue: 0.0:55:46.21.0:55:47.42.Default..0.0.0..Does the name ring a bell?
+Dialogue: 0.0:55:52.38.0:55:53.04.Default..0.0.0..Yes.
+Dialogue: 0.0:55:53.58.0:55:55.58.Default..0.0.0..He was one of my patients
+Dialogue: 0.0:55:55.58.0:55:56.79.Default..0.0.0..back when I practiced psychiatry.
+Dialogue: 0.0:55:57.04.0:55:58.67.Default..0.0.0..What was his diagnosis?
+Dialogue: 0.0:56:01.08.0:56:02.67.Default..0.0.0..Deeply insecure.
+Dialogue: 0.0:56:04.71.0:56:07.21.Default..0.0.0..Socially inept.
+Dialogue: 0.0:56:07.96.0:56:09.87.Default..0.0.0..Erratic and paranoid.
+Dialogue: 0.0:56:10.13.0:56:12.21.Default..0.0.0..He suffered from persecutory delusions.
+Dialogue: 0.0:56:12.33.0:56:15.04.Default..0.0.0..Unpredictable mood swings.
+Dialogue: 0.0:56:15.13.0:56:16.67.Default..0.0.0..Prone to self-harm.
+Dialogue: 0.0:56:16.79.0:56:19.58.Default..0.0.0..Classic symptoms of bipolar disorder and psychosis.
+Dialogue: 0.0:56:20.92.0:56:22.46.Default..0.0.0..How did you treat him?
+Dialogue: 0.0:56:23.08.0:56:26.12.Default..0.0.0..Therapy. antidepressants and antipsychotics.
+Dialogue: 0.0:56:28.04.0:56:29.62.Default..0.0.0..Did it ever occur to you
+Dialogue: 0.0:56:29.79.0:56:31.29.Default..0.0.0..that he only sought you out
+Dialogue: 0.0:56:31.67.0:56:33.83.Default..0.0.0..because of your ties to Mou-tung?
+Dialogue: 0.0:56:34.08.0:56:35.12.Default..0.0.0..No.
+Dialogue: 0.0:56:35.33.0:56:40.62.Default..0.0.0..Did he ever express hatred for Kiu Yin or the Lei family?
+Dialogue: 0.0:56:40.63.0:56:42.08.Default..0.0.0..No.
+Dialogue: 0.0:56:45.29.0:56:48.12.Default..0.0.0..So. Mak was your patient.
+Dialogue: 0.0:56:49.19.0:56:52.62.Default..0.0.0..We found meds at his home that you prescribed.
+Dialogue: 0.0:56:54.45.0:56:58.58.Default..0.0.0..You're Lei Mou-tung's partner.
+Dialogue: 0.0:56:59.72.0:57:03.33.Default..0.0.0..Mou-tung's father was Lei Pak-san.
+Dialogue: 0.0:57:03.55.0:57:06.79.Default..0.0.0..Mak blew up the hospital
+Dialogue: 0.0:57:06.82.0:57:08.09.Default..0.0.0..and coincidentally.
+Dialogue: 0.0:57:08.11.0:57:09.57.Default..0.0.0..one of the victims
+Dialogue: 0.0:57:09.59.0:57:12.06.Default..0.0.0..was Lei Pak-san.
+Dialogue: 0.0:57:16.04.0:57:18.17.Default..0.0.0..Be honest with me.
+Dialogue: 0.0:57:23.13.0:57:24.58.Default..0.0.0..Who stands to gain the most
+Dialogue: 0.0:57:25.67.0:57:27.87.Default..0.0.0..from all of this?
+Dialogue: 0.0:57:31.54.0:57:33.83.Default..0.0.0..I don't know how police investigations work
+Dialogue: 0.0:57:34.58.0:57:37.58.Default..0.0.0..and I deeply respect your profession.
+Dialogue: 0.0:57:39.21.0:57:40.67.Default..0.0.0..but doesn't it seem a bit...
+Dialogue: 0.0:57:40.67.0:57:44.54.Default..0.0.0..speculative to assume that
+Dialogue: 0.0:57:44.83.0:57:47.58.Default..0.0.0..every coincidence points to the truth?
+Dialogue: 0.0:58:30.08.0:58:33.83.Default..0.0.0..{\i1}I'd love to be a drug trafficker. living large.{\i0}
+Dialogue: 0.0:58:34.17.0:58:35.83.Default..0.0.0..{\i1}Where's Rodent? Let's play a game while we wait.{\i0}
+Dialogue: 0.0:58:38.38.0:58:40.58.Default..0.0.0..{\i1}Red or blue?{\i0}
+Dialogue: 0.0:58:40.71.0:58:43.42.Default..0.0.0..What do you mean?
+Dialogue: 0.0:58:43.63.0:58:45.58.Default..0.0.0..You're the one who installed it.
+Dialogue: 0.0:58:45.58.0:58:47.87.Default..0.0.0..I'm bored out of my mind.
+Dialogue: 0.0:58:47.88.0:58:52.87.Default..0.0.0..The floor's hard. my back aches and it's boiling.
+Dialogue: 0.0:58:52.88.0:58:55.58.Default..0.0.0..No shit. Of course the floor is hard.
+Dialogue: 0.0:58:56.04.0:58:58.46.Default..0.0.0..{\i1}How about a comfy mattress?{\i0}
+Dialogue: 0.0:58:58.46.0:59:01.62.Default..0.0.0..{\i1}A fruit platter while you wait?{\i0}
+Dialogue: 0.0:59:01.63.0:59:02.83.Default..0.0.0..Really?
+Dialogue: 0.0:59:03.13.0:59:04.21.Default..0.0.0..{\i1}In your dreams.{\i0}
+Dialogue: 0.0:59:04.21.0:59:05.37.Default..0.0.0..Shit...
+Dialogue: 0.0:59:06.08.0:59:08.33.Default..0.0.0..You have to admit. this is a shit position to be in.
+Dialogue: 0.0:59:08.54.0:59:09.62.Default..0.0.0..Piss off.
+Dialogue: 0.0:59:09.63.0:59:11.37.Default..0.0.0..You're the one who put her there.
+Dialogue: 0.0:59:11.42.0:59:13.37.Default..0.0.0..The car's too low
+Dialogue: 0.0:59:13.38.0:59:15.17.Default..0.0.0..for anyone else.
+Dialogue: 0.0:59:16.71.0:59:18.50.Default..0.0.0..You're early.
+Dialogue: 0.0:59:18.54.0:59:20.71.Default..0.0.0..Rodent's flight just landed.
+Dialogue: 0.0:59:20.92.0:59:22.46.Default..0.0.0..Let's start without him.
+Dialogue: 0.0:59:23.25.0:59:25.00.Default..0.0.0..Snake soup and glutinous rice.
+Dialogue: 0.0:59:25.08.0:59:27.21.Default..0.0.0..The best food for this weather.
+Dialogue: 0.0:59:27.79.0:59:29.00.Default..0.0.0..Thanks.
+Dialogue: 0.0:59:33.71.0:59:35.71.Default..0.0.0..My condolences. son.
+Dialogue: 0.0:59:36.25.0:59:37.33.Default..0.0.0..Thank you.
+Dialogue: 0.0:59:37.79.0:59:38.79.Default..0.0.0..And you?
+Dialogue: 0.0:59:39.00.0:59:40.46.Default..0.0.0..How's your gout?
+Dialogue: 0.0:59:41.58.0:59:43.62.Default..0.0.0..You know what they say...
+Dialogue: 0.0:59:46.33.0:59:48.08.Default..0.0.0..If the gods want me. I'll die either way.
+Dialogue: 0.0:59:48.54.0:59:51.29.Default..0.0.0..Two strokes couldn't kill me. I've no fear.
+Dialogue: 0.0:59:51.29.0:59:55.21.Default..0.0.0..Your old man was my biggest supporter.
+Dialogue: 0.0:59:55.21.0:59:58.42.Default..0.0.0..I left the opium trade to open this place for him.
+Dialogue: 0.1:00:01.79.1:00:03.21.Default..0.0.0..Eat it while it's hot.
+Dialogue: 0.1:00:03.21.1:00:04.62.Default..0.0.0..It's no good cold.
+Dialogue: 0.1:00:13.79.1:00:15.17.Default..0.0.0..Good?
+Dialogue: 0.1:00:17.79.1:00:18.50.Default..0.0.0..Yeah.
+Dialogue: 0.1:00:20.50.1:00:24.58.Default..0.0.0..We're all equals here.
+Dialogue: 0.1:00:26.17.1:00:28.50.Default..0.0.0..Speak freely.
+Dialogue: 0.1:00:30.58.1:00:32.04.Default..0.0.0..It's too salty.
+Dialogue: 0.1:00:38.42.1:00:40.83.Default..0.0.0..Maybe I was heavy-handed today.
+Dialogue: 0.1:00:41.67.1:00:43.29.Default..0.0.0..It's been salty for years.
+Dialogue: 0.1:00:49.79.1:00:51.33.Default..0.0.0..I guess palates differ.
+Dialogue: 0.1:00:51.81.1:00:52.58.Default..0.0.0..No offense.
+Dialogue: 0.1:00:52.58.1:00:53.58.Default..0.0.0..None
+Dialogue: 0.1:00:54.04.1:00:55.17.Default..0.0.0..taken.
+Dialogue: 0.1:00:57.79.1:01:00.17.Default..0.0.0..Out with the old. in with the new.
+Dialogue: 0.1:01:00.71.1:01:03.62.Default..0.0.0..I can't please everyone.
+Dialogue: 0.1:01:05.54.1:01:06.71.Default..0.0.0..Mou-tung...
+Dialogue: 0.1:01:08.04.1:01:10.50.Default..0.0.0..I know you value tradition.
+Dialogue: 0.1:01:12.17.1:01:14.54.Default..0.0.0..I just worry you find me obsolete.
+Dialogue: 0.1:01:15.73.1:01:18.37.Default..0.0.0..I was born into this. I had no choice.
+Dialogue: 0.1:01:19.96.1:01:24.17.Default..0.0.0..If I weren't nostalgic. I wouldn't be here
+Dialogue: 0.1:01:24.29.1:01:28.37.Default..0.0.0..nor would I have waited this long to\Ntell you that I never liked it.
+Dialogue: 0.1:01:31.88.1:01:34.37.Default..0.0.0..The elderly fear change.
+Dialogue: 0.1:01:34.83.1:01:38.21.Default..0.0.0..My heart is weak.
+Dialogue: 0.1:01:40.21.1:01:41.50.Default..0.0.0..Sometimes.
+Dialogue: 0.1:01:43.92.1:01:45.33.Default..0.0.0..change is necessary.
+Dialogue: 0.1:01:50.42.1:01:51.83.Default..0.0.0..I'm finished with snake soup.
+Dialogue: 0.1:01:53.58.1:01:56.17.Default..0.0.0..This will be the last time.
+Dialogue: 0.1:02:00.96.1:02:01.75.Default..0.0.0..Thank you.
+Dialogue: 0.1:02:02.92.1:02:04.96.Default..0.0.0..Rodent is my blood brother.
+Dialogue: 0.1:02:05.88.1:02:07.54.Default..0.0.0..We grew up in the same gutter.
+Dialogue: 0.1:02:09.38.1:02:11.42.Default..0.0.0..I know I won't escape my fate tonight.
+Dialogue: 0.1:02:14.21.1:02:15.75.Default..0.0.0..I'm a single man
+Dialogue: 0.1:02:16.29.1:02:17.92.Default..0.0.0..with no attachments.
+Dialogue: 0.1:02:19.33.1:02:21.83.Default..0.0.0..But Rodent has a family.
+Dialogue: 0.1:02:22.33.1:02:23.92.Default..0.0.0..I hope he's...
+Dialogue: 0.1:02:25.21.1:02:26.67.Default..0.0.0..the one who survives.
+Dialogue: 0.1:02:31.21.1:02:32.17.Default..0.0.0..I'm leaving now.
+Dialogue: 0.1:02:36.92.1:02:38.79.Default..0.0.0..Don't make your old man worry.
+Dialogue: 0.1:02:43.13.1:02:45.21.Default..0.0.0..There's nothing to worry about
+Dialogue: 0.1:02:47.00.1:02:48.87.Default..0.0.0..as long as you can let go.
+Dialogue: 0.1:02:50.46.1:02:52.21.Default..0.0.0..{\i1}Uncle Gam accepted the check.{\i0}
+Dialogue: 0.1:02:52.21.1:02:54.29.Default..0.0.0..{\i1}Your brother declined.{\i0}
+Dialogue: 0.1:02:54.29.1:02:55.64.Default..0.0.0..{\i1}He's with Mou-tung now.{\i0}
+Dialogue: 0.1:02:55.66.1:02:58.49.Default..0.0.0..Alone? For God's sake.
+Dialogue: 0.1:02:58.94.1:03:00.17.Default..0.0.0..I'm on my way.
+Dialogue: 0.1:03:00.46.1:03:01.29.Default..0.0.0..Rodent's here.
+Dialogue: 0.1:03:38.46.1:03:40.75.Default..0.0.0..Hurry up. Baldy.
+Dialogue: 0.1:03:41.08.1:03:42.79.Default..0.0.0..God. you're slow.
+Dialogue: 0.1:03:43.21.1:03:46.46.Default..0.0.0..I've known you since you were a kid.
+Dialogue: 0.1:03:53.55.1:03:56.23.Default..0.0.0..I was there when they slit your throat.
+Dialogue: 0.1:03:56.25.1:03:58.12.Default..0.0.0..I can't believe you survived.
+Dialogue: 0.1:04:04.21.1:04:09.04.Default..0.0.0..Kid. it's time you stood up for yourself.
+Dialogue: 0.1:04:09.29.1:04:11.92.Default..0.0.0..Do me a favor and make it quick.
+Dialogue: 0.1:04:13.21.1:04:16.37.Default..0.0.0..Stab. don't twist!
+Dialogue: 0.1:04:36.92.1:04:39.42.Default..0.0.0..Shit. that was close.
+Dialogue: 0.1:05:20.04.1:05:21.29.Default..0.0.0..The three female victims
+Dialogue: 0.1:05:21.29.1:05:24.08.Default..0.0.0..including Officer 3113.
+Dialogue: 0.1:05:24.17.1:05:25.54.Default..0.0.0..Chan Lai-kei.
+Dialogue: 0.1:05:25.67.1:05:27.92.Default..0.0.0..Officer 6124. Lam Pai-ling
+Dialogue: 0.1:05:28.04.1:05:31.37.Default..0.0.0..and Officer 0318.
+Dialogue: 0.1:05:31.38.1:05:32.37.Default..0.0.0..Cheung Wing
+Dialogue: 0.1:05:32.63.1:05:37.46.Default..0.0.0..were all killed between 1985 and 1986.
+Dialogue: 0.1:05:39.13.1:05:42.92.Default..0.0.0..All three victims were abducted
+Dialogue: 0.1:05:43.58.1:05:46.62.Default..0.0.0..imprisoned and sexually assaulted
+Dialogue: 0.1:05:46.88.1:05:48.62.Default..0.0.0..then murdered
+Dialogue: 0.1:05:50.63.1:05:52.29.Default..0.0.0..by the same killer.
+Dialogue: 0.1:05:52.79.1:05:56.21.Default..0.0.0..I was barred from the investigation
+Dialogue: 0.1:05:57.79.1:05:59.08.Default..0.0.0..because...
+Dialogue: 0.1:06:00.71.1:06:02.42.Default..0.0.0..Cheung Wing was my wife.
+Dialogue: 0.1:06:05.63.1:06:06.96.Default..0.0.0..{\i1}I don't know where I'm.{\i0}
+Dialogue: 0.1:06:06.96.1:06:09.04.Default..0.0.0..{\i1}I smell the sea.{\i0}
+Dialogue: 0.1:06:09.13.1:06:10.96.Default..0.0.0..{\i1}The kidnapper is thin{\i0}
+Dialogue: 0.1:06:10.96.1:06:13.29.Default..0.0.0..{\i1}about 1.7m tall. with no visible tattoos.{\i0}
+Dialogue: 0.1:06:14.46.1:06:15.83.Default..0.0.0..{\i1}He looks like a woman{\i0}
+Dialogue: 0.1:06:16.13.1:06:17.79.Default..0.0.0..{\i1}but he has a man's voice.{\i0}
+Dialogue: 0.1:06:18.92.1:06:21.17.Default..0.0.0..{\i1}We're separated by an iron gate.{\i0}
+Dialogue: 0.1:06:27.03.1:06:28.60.Default..0.0.0..Don't!
+Dialogue: 0.1:06:28.72.1:06:31.29.Default..0.0.0..{\i1}Please! I'm pregnant!{\i0}
+Dialogue: 0.1:06:31.31.1:06:32.59.Default..0.0.0..{\i1}Don't!{\i0}
+Dialogue: 0.1:06:34.62.1:06:36.39.Default..0.0.0..{\i1}Honey!{\i0}
+Dialogue: 0.1:06:36.41.1:06:38.41.Default..0.0.0..{\i1}Help me!{\i0}
+Dialogue: 0.1:06:42.63.1:06:43.63.Default..0.0.0..{\i1}Help!{\i0}
+Dialogue: 0.1:06:57.49.1:06:58.78.Default..0.0.0..{\i1}Honey. help me.{\i0}
+Dialogue: 0.1:07:01.32.1:07:03.96.Default..0.0.0..{\i1}Honey. he tied me up! Honey!{\i0}
+Dialogue: 0.1:07:21.96.1:07:24.29.Default..0.0.0..Rain would be nice right now...
+Dialogue: 0.1:07:53.58.1:07:54.62.Default..0.0.0..Talk.
+Dialogue: 0.1:08:08.88.1:08:10.83.Default..0.0.0..It's been a while. Lungs.
+Dialogue: 0.1:08:11.42.1:08:13.33.Default..0.0.0..Aren't you retired?
+Dialogue: 0.1:08:13.71.1:08:15.33.Default..0.0.0..How can I retire
+Dialogue: 0.1:08:16.46.1:08:17.96.Default..0.0.0..if fuckers like you won't?
+Dialogue: 0.1:08:19.17.1:08:20.46.Default..0.0.0..Is the force understaffed?
+Dialogue: 0.1:08:20.46.1:08:22.21.Default..0.0.0..Why haven't you answered my calls?
+Dialogue: 0.1:08:26.08.1:08:27.67.Default..0.0.0..I was sleeping...
+Dialogue: 0.1:08:29.29.1:08:31.08.Default..0.0.0..Hardly a crime.
+Dialogue: 0.1:08:31.54.1:08:33.12.Default..0.0.0..I'm serious...
+Dialogue: 0.1:08:34.04.1:08:35.87.Default..0.0.0..Heard from Lei Mou-tung lately?
+Dialogue: 0.1:08:38.04.1:08:39.62.Default..0.0.0..Yeah.
+Dialogue: 0.1:08:39.63.1:08:41.71.Default..0.0.0..Go on...
+Dialogue: 0.1:08:43.63.1:08:45.12.Default..0.0.0..Saw him a few days ago.
+Dialogue: 0.1:08:45.21.1:08:46.83.Default..0.0.0..What for?
+Dialogue: 0.1:08:47.88.1:08:51.42.Default..0.0.0..There was an Italian guy...
+Dialogue: 0.1:08:51.63.1:08:53.79.Default..0.0.0..who wanted Kiu Yin to supply him.
+Dialogue: 0.1:08:55.63.1:08:57.54.Default..0.0.0..Mou-tung agreed.
+Dialogue: 0.1:08:57.71.1:08:58.62.Default..0.0.0..And?
+Dialogue: 0.1:08:59.88.1:09:00.79.Default..0.0.0..That's it.
+Dialogue: 0.1:09:00.83.1:09:03.87.Default..0.0.0..I only made the introduction.
+Dialogue: 0.1:09:04.08.1:09:06.62.Default..0.0.0..Your pal Tat was there too.
+Dialogue: 0.1:09:50.88.1:09:51.58.Default..0.0.0..Fold.
+Dialogue: 0.1:10:01.83.1:10:02.92.Default..0.0.0..Officer.
+Dialogue: 0.1:10:03.08.1:10:04.58.Default..0.0.0..You're late.
+Dialogue: 0.1:10:04.96.1:10:06.17.Default..0.0.0..Don't worry. take your time.
+Dialogue: 0.1:10:06.17.1:10:08.58.Default..0.0.0..This city is infested with vermin.
+Dialogue: 0.1:10:08.58.1:10:11.08.Default..0.0.0..There's a rat among us.
+Dialogue: 0.1:10:11.08.1:10:14.21.Default..0.0.0..Whoever takes my place...
+Dialogue: 0.1:10:14.21.1:10:18.12.Default..0.0.0..would appreciate help from your friends.
+Dialogue: 0.1:10:21.83.1:10:23.42.Default..0.0.0..Thank you. my friend.
+Dialogue: 0.1:10:30.96.1:10:32.33.Default..0.0.0..Officer.
+Dialogue: 0.1:10:33.13.1:10:35.04.Default..0.0.0..You wanted to talk about...
+Dialogue: 0.1:10:38.46.1:10:42.33.Default..0.0.0..I had an arrangement with your father.
+Dialogue: 0.1:10:42.83.1:10:44.92.Default..0.0.0..I hope that doesn't change now that you're in charge.
+Dialogue: 0.1:10:46.79.1:10:49.46.Default..0.0.0..I'm holding 40kg of cocaine right now.
+Dialogue: 0.1:10:50.17.1:10:54.54.Default..0.0.0..I gave Uncle Gwai regular police intel
+Dialogue: 0.1:10:55.04.1:10:56.92.Default..0.0.0..to minimize Kiu Yin's losses.
+Dialogue: 0.1:10:57.71.1:10:59.17.Default..0.0.0..In exchange.
+Dialogue: 0.1:10:59.33.1:11:02.46.Default..0.0.0..Kiu Yin would cut the market supply
+Dialogue: 0.1:11:02.63.1:11:04.46.Default..0.0.0..hiking the price while we sold our stash.
+Dialogue: 0.1:11:05.63.1:11:06.67.Default..0.0.0..I wonder
+Dialogue: 0.1:11:07.42.1:11:08.83.Default..0.0.0..if this deal...
+Dialogue: 0.1:11:10.17.1:11:11.71.Default..0.0.0..still stands?
+Dialogue: 0.1:11:13.08.1:11:15.83.Default..0.0.0..What percentage did my father push for you?
+Dialogue: 0.1:11:17.63.1:11:18.67.Default..0.0.0..40%.
+Dialogue: 0.1:11:21.17.1:11:23.08.Default..0.0.0..40%. no problem.
+Dialogue: 0.1:11:23.63.1:11:24.71.Default..0.0.0..Thank you.
+Dialogue: 0.1:11:26.71.1:11:29.18.Default..0.0.0..Mak. the man who killed my father
+Dialogue: 0.1:11:29.20.1:11:31.33.Default..0.0.0..was your mole in Wah Hing.
+Dialogue: 0.1:11:32.29.1:11:35.46.Default..0.0.0..I'm sure there are informants in Kiu Yin as we speak.
+Dialogue: 0.1:11:37.38.1:11:39.29.Default..0.0.0..However. let me remind you...
+Dialogue: 0.1:11:39.67.1:11:41.29.Default..0.0.0..Kiu Yin is not Wah Hing.
+Dialogue: 0.1:11:42.13.1:11:44.83.Default..0.0.0..I'm confident in our internal security.
+Dialogue: 0.1:11:45.63.1:11:48.71.Default..0.0.0..We operate as usual. with or without informants.
+Dialogue: 0.1:11:53.04.1:11:54.17.Default..0.0.0..I don't understand.
+Dialogue: 0.1:11:55.33.1:11:59.62.Default..0.0.0..Give me the name of your guy.
+Dialogue: 0.1:12:00.58.1:12:01.79.Default..0.0.0..In exchange.
+Dialogue: 0.1:12:02.38.1:12:04.96.Default..0.0.0..I'll push the prices up to 60%.
+Dialogue: 0.1:12:05.67.1:12:06.46.Default..0.0.0..How about that?
+Dialogue: 0.1:12:08.79.1:12:09.79.Default..0.0.0..I think there's been a misunderstanding. Mr. Lei...
+Dialogue: 0.1:12:09.79.1:12:10.83.Default..0.0.0..80%.
+Dialogue: 0.1:12:13.88.1:12:16.92.Default..0.0.0..- Mr. Lei...\N- You came all this way...
+Dialogue: 0.1:12:18.04.1:12:21.08.Default..0.0.0..I know you need the money. The more. the better.
+Dialogue: 0.1:12:22.71.1:12:24.29.Default..0.0.0..I'm only offering this...
+Dialogue: 0.1:12:24.83.1:12:26.33.Default..0.0.0..once.
+Dialogue: 0.1:12:30.79.1:12:32.17.Default..0.0.0..100%.
+Dialogue: 0.1:13:08.17.1:13:09.08.Default..0.0.0..Chiu.
+Dialogue: 0.1:13:14.58.1:13:15.58.Default..0.0.0..Play for me.
+Dialogue: 0.1:13:16.08.1:13:17.21.Default..0.0.0..Be aggressive.
+Dialogue: 0.1:13:17.79.1:13:18.83.Default..0.0.0..He's a sucker.
+Dialogue: 0.1:13:21.38.1:13:23.29.Default..0.0.0..Forgive the mess.
+Dialogue: 0.1:13:36.83.1:13:38.79.Default..0.0.0..Easy. brother.
+Dialogue: 0.1:13:45.38.1:13:47.87.Default..0.0.0..Good things come in pairs.
+Dialogue: 0.1:13:47.88.1:13:49.58.Default..0.0.0..Chill...
+Dialogue: 0.1:13:49.92.1:13:51.12.Default..0.0.0..It's too strong.
+Dialogue: 0.1:13:51.13.1:13:52.83.Default..0.0.0..Strong?
+Dialogue: 0.1:13:53.08.1:13:55.58.Default..0.0.0..Down it.
+Dialogue: 0.1:14:01.63.1:14:03.87.Default..0.0.0..It'll numb the pain later.
+Dialogue: 0.1:14:38.08.1:14:41.04.Default..0.0.0..Sorry. may I use the bathroom?
+Dialogue: 0.1:14:41.13.1:14:42.21.Default..0.0.0..Excuse me.
+Dialogue: 0.1:14:44.17.1:14:46.79.Default..0.0.0..Straight ahead. on the left.
+Dialogue: 0.1:16:03.79.1:16:06.87.Default..0.0.0..I have two daughters...
+Dialogue: 0.1:16:09.38.1:16:10.54.Default..0.0.0..I do too.
+Dialogue: 0.1:16:16.33.1:16:17.67.Default..0.0.0..Don't worry.
+Dialogue: 0.1:16:19.13.1:16:24.46.Default..0.0.0..What the hell happened to the world?
+Dialogue: 0.1:16:28.92.1:16:30.46.Default..0.0.0..Nothing's changed.
+Dialogue: 0.1:16:44.04.1:16:47.54.Default..0.0.0..Looks like the machines are working overtime tonight.
+Dialogue: 0.1:17:29.54.1:17:32.12.Default..0.0.0..{\i1}We're all caged birds.{\i0}
+Dialogue: 0.1:17:32.38.1:17:34.08.Default..0.0.0..{\i1}Standing on the graves of dreams.{\i0}
+Dialogue: 0.1:17:34.38.1:17:35.87.Default..0.0.0..{\i1}It's a cruel world.{\i0}
+Dialogue: 0.1:17:35.92.1:17:37.58.Default..0.0.0..{\i1}If you have a choice. don't come back.{\i0}
+Dialogue: 0.1:18:17.92.1:18:18.67.Default..0.0.0..Doi Keung.
+Dialogue: 0.1:18:18.67.1:18:19.83.Default..0.0.0..{\i1}You better watch your back.{\i0}
+Dialogue: 0.1:18:19.83.1:18:20.87.Default..0.0.0..What?
+Dialogue: 0.1:18:20.88.1:18:24.71.Default..0.0.0..{\i1}Kiu Yin stopped their cocaine supply last night.{\i0}
+Dialogue: 0.1:18:24.71.1:18:25.54.Default..0.0.0..I know.
+Dialogue: 0.1:18:25.54.1:18:26.51.Default..0.0.0..{\i1}No. I mean...{\i0}
+Dialogue: 0.1:18:26.54.1:18:28.54.Default..0.0.0..{\i1}it's an indefinite suspension this time.{\i0}
+Dialogue: 0.1:18:28.63.1:18:31.37.Default..0.0.0..{\i1}It's madness out there.{\i0}
+Dialogue: 0.1:18:31.38.1:18:33.42.Default..0.0.0..{\i1}Gangs are looting everywhere.{\i0}
+Dialogue: 0.1:18:33.42.1:18:35.62.Default..0.0.0..{\i1}A bunch of junkies blew up a methadone clinic.{\i0}
+Dialogue: 0.1:18:38.38.1:18:39.96.Default..0.0.0..Might be a good time to sell...
+Dialogue: 0.1:18:39.96.1:18:42.71.Default..0.0.0..{\i1}Sure. if you don't get killed first.{\i0}
+Dialogue: 0.1:18:43.17.1:18:45.62.Default..0.0.0..{\i1}Careful. if anyone hears about the 40kg...{\i0}
+Dialogue: 0.1:18:46.58.1:18:47.62.Default..0.0.0..{\i1}you're dead.{\i0}
+Dialogue: 0.1:19:14.79.1:19:17.87.Default..0.0.0..Mr. Lei. is there a misunderstanding?
+Dialogue: 0.1:19:19.17.1:19:20.75.Default..0.0.0..Not at all.
+Dialogue: 0.1:19:21.58.1:19:23.50.Default..0.0.0..I did what I promised.
+Dialogue: 0.1:19:23.92.1:19:25.62.Default..0.0.0..Your stash is worth a fortune now.
+Dialogue: 0.1:19:26.29.1:19:28.42.Default..0.0.0..If you won't agree to 40%. I can let it go.
+Dialogue: 0.1:19:28.42.1:19:31.50.Default..0.0.0..Let go of the 40% or your stash?
+Dialogue: 0.1:19:33.67.1:19:36.46.Default..0.0.0..I knew your deal with my father was only 20%.
+Dialogue: 0.1:19:37.29.1:19:39.12.Default..0.0.0..I allowed you to name your price last night
+Dialogue: 0.1:19:40.00.1:19:42.21.Default..0.0.0..just to get a measure
+Dialogue: 0.1:19:42.33.1:19:44.00.Default..0.0.0..of the man you think I am.
+Dialogue: 0.1:19:48.33.1:19:52.83.Default..0.0.0..I can sell Kiu Yin my stash at the original price.
+Dialogue: 0.1:19:59.83.1:20:01.37.Default..0.0.0..All these years...
+Dialogue: 0.1:20:02.67.1:20:04.54.Default..0.0.0..I've done a lot to help Kiu Yin.
+Dialogue: 0.1:20:06.04.1:20:06.92.Default..0.0.0..Well...
+Dialogue: 0.1:20:11.21.1:20:12.33.Default..0.0.0..Mr. Lei.
+Dialogue: 0.1:20:14.46.1:20:19.25.Default..0.0.0..Once I leave with my daughter. you'll never see me again.
+Dialogue: 0.1:20:22.00.1:20:23.37.Default..0.0.0..How old is she?
+Dialogue: 0.1:20:28.96.1:20:30.17.Default..0.0.0..Six.
+Dialogue: 0.1:20:33.58.1:20:36.67.Default..0.0.0..If you'd stayed out of this from the start
+Dialogue: 0.1:20:37.46.1:20:39.87.Default..0.0.0..you would've watched her grow up in peace.
+Dialogue: 0.1:20:43.29.1:20:44.79.Default..0.0.0..Mr. Lei. I'm begging you.
+Dialogue: 0.1:20:44.83.1:20:47.79.Default..0.0.0..She has severe asthma. she won't survive if we stay.
+Dialogue: 0.1:20:50.25.1:20:52.87.Default..0.0.0..You were Chiu's superior.
+Dialogue: 0.1:20:52.88.1:20:55.87.Default..0.0.0..You knew he had two daughters as well. right?
+Dialogue: 0.1:20:58.63.1:21:01.33.Default..0.0.0..If you'd forfeited the 40%
+Dialogue: 0.1:21:01.33.1:21:03.42.Default..0.0.0..and surrendered the stash
+Dialogue: 0.1:21:04.29.1:21:08.25.Default..0.0.0..you and your daughter would be on that flight.
+Dialogue: 0.1:21:11.42.1:21:15.17.Default..0.0.0..No more pretty excuses about who this is for.
+Dialogue: 0.1:21:17.50.1:21:19.37.Default..0.0.0..I have only one word for you
+Dialogue: 0.1:21:19.38.1:21:20.58.Default..0.0.0..Greed.
+Dialogue: 0.1:21:22.58.1:21:23.75.Default..0.0.0..Yes.
+Dialogue: 0.1:21:25.46.1:21:26.79.Default..0.0.0..And?
+Dialogue: 0.1:21:34.46.1:21:37.08.Default..0.0.0..I suggest you take the call.
+Dialogue: 0.1:21:39.25.1:21:43.08.Default..0.0.0..You're the last man in this city with cocaine.
+Dialogue: 0.1:21:44.67.1:21:46.29.Default..0.0.0..Take care.
+Dialogue: 0.1:22:00.96.1:22:01.58.Default..0.0.0..{\i1}Boss.{\i0}
+Dialogue: 0.1:22:01.58.1:22:02.12.Default..0.0.0..Yes?
+Dialogue: 0.1:22:02.13.1:22:04.50.Default..0.0.0..{\i1}Intel reports massive amounts of coke in Chongqing Mansion.{\i0}
+Dialogue: 0.1:22:04.50.1:22:07.33.Default..0.0.0..{\i1}The Chief ordered a seizure.{\i0}
+Dialogue: 0.1:22:16.17.1:22:17.58.Default..0.0.0..What's the situation?
+Dialogue: 0.1:22:22.71.1:22:24.00.Default..0.0.0..Total chaos.
+Dialogue: 0.1:22:24.63.1:22:26.54.Default..0.0.0..One more crisis and I wouldn't be surprised
+Dialogue: 0.1:22:27.08.1:22:29.83.Default..0.0.0..if the entire force resigned.
+Dialogue: 0.1:22:34.17.1:22:37.37.Default..0.0.0..Boss's orders. Regardless of intel
+Dialogue: 0.1:22:37.83.1:22:39.58.Default..0.0.0..the raid must happen before dawn.
+Dialogue: 0.1:22:42.04.1:22:44.54.Default..0.0.0..Who's leading?
+Dialogue: 0.1:22:44.96.1:22:46.12.Default..0.0.0..I am.
+Dialogue: 0.1:22:47.08.1:22:48.83.Default..0.0.0..I'm coming with you.
+Dialogue: 0.1:22:52.71.1:22:56.42.Default..0.0.0..Three suspects in Flat 305.
+Dialogue: 0.1:22:57.38.1:23:01.04.Default..0.0.0..Supposedly. the city's last batch is inside.
+Dialogue: 0.1:23:01.54.1:23:02.83.Default..0.0.0..Flat 305?
+Dialogue: 0.1:23:06.42.1:23:07.29.Default..0.0.0..What's our headcount?
+Dialogue: 0.1:23:07.29.1:23:08.21.Default..0.0.0..Two plainclothes teams.
+Dialogue: 0.1:23:08.21.1:23:09.50.Default..0.0.0..Four snipers on the roof.
+Dialogue: 0.1:23:09.50.1:23:10.71.Default..0.0.0..Two SWAT teams.
+Dialogue: 0.1:23:10.83.1:23:12.21.Default..0.0.0..What are they armed with?
+Dialogue: 0.1:23:12.33.1:23:14.71.Default..0.0.0..No time to scout.
+Dialogue: 0.1:23:16.04.1:23:17.37.Default..0.0.0..We move in ten minutes.
+Dialogue: 0.1:23:38.96.1:23:41.71.Default..0.0.0..It's gang territory up there. Be careful.
+Dialogue: 0.1:25:51.04.1:25:52.37.Default..0.0.0..Team A. go!
+Dialogue: 0.1:26:00.21.1:26:02.12.Default..0.0.0..Hold! Hold!
+Dialogue: 0.1:26:50.29.1:26:51.33.Default..0.0.0..Fire!
+Dialogue: 0.1:26:59.34.1:27:01.50.Default..0.0.0..Run! Run!
+Dialogue: 0.1:27:08.08.1:27:10.67.Default..0.0.0..Man down!
+Dialogue: 0.1:27:19.44.1:27:22.17.Default..0.0.0..My foot! Get my foot!
+Dialogue: 0.1:27:45.26.1:27:46.26.Default..0.0.0..Behind you!
+Dialogue: 0.1:27:55.04.1:27:57.46.Default..0.0.0..- Grenade!\N- Gan! Run!
+Dialogue: 0.1:28:59.88.1:29:02.62.Default..0.0.0..Everything will be fine.
+Dialogue: 0.1:29:04.54.1:29:09.54.Default..0.0.0..I'll make it...
+Dialogue: 0.1:29:21.46.1:29:27.04.Default..0.0.0..I won't...
+Dialogue: 0.1:29:38.71.1:29:41.08.Default..0.0.0..I swear...
+Dialogue: 0.1:30:12.58.1:30:15.87.Default..0.0.0..Mr. Lei. Chief Inspector Ng of the Crime Unit.
+Dialogue: 0.1:30:15.88.1:30:19.00.Default..0.0.0..You've been granted a 48-hour furlough.
+Dialogue: 0.1:30:19.00.1:30:21.42.Default..0.0.0..Aside from your father's funeral
+Dialogue: 0.1:30:21.42.1:30:23.54.Default..0.0.0..you are forbidden to go anywhere.
+Dialogue: 0.1:30:23.54.1:30:26.42.Default..0.0.0..You'll be sent back immediately afterward.
+Dialogue: 0.1:30:26.42.1:30:28.75.Default..0.0.0..Remain disciplined and cooperative.
+Dialogue: 0.1:30:28.75.1:30:29.42.Default..0.0.0..Understood?
+Dialogue: 0.1:30:29.42.1:30:30.54.Default..0.0.0..Wow.
+Dialogue: 0.1:30:31.79.1:30:37.54.Default..0.0.0..I missed this discipline.
+Dialogue: 0.1:30:39.58.1:30:41.54.Default..0.0.0..Reminds me of my mother.
+Dialogue: 0.1:30:48.88.1:30:50.37.Default..0.0.0..Uncle Gwai. make it quick.
+Dialogue: 0.1:30:50.38.1:30:52.17.Default..0.0.0..Alright.
+Dialogue: 0.1:31:10.33.1:31:11.71.Default..0.0.0..How have you been?
+Dialogue: 0.1:31:24.38.1:31:26.58.Default..0.0.0..When your father hired me...
+Dialogue: 0.1:31:26.58.1:31:29.17.Default..0.0.0..he said my job involved more than trading intel.
+Dialogue: 0.1:31:33.63.1:31:35.67.Default..0.0.0..Police issues.
+Dialogue: 0.1:31:35.71.1:31:37.42.Default..0.0.0..internal conflicts...
+Dialogue: 0.1:31:37.42.1:31:38.75.Default..0.0.0..I had to handle it all.
+Dialogue: 0.1:31:38.96.1:31:40.33.Default..0.0.0..He always said
+Dialogue: 0.1:31:40.33.1:31:43.25.Default..0.0.0..business isn't just about winning.
+Dialogue: 0.1:31:43.50.1:31:46.08.Default..0.0.0..Mou-tung decided that Kiu Yin should stop supplying.
+Dialogue: 0.1:31:48.29.1:31:49.92.Default..0.0.0..I don't agree.
+Dialogue: 0.1:31:55.04.1:31:56.87.Default..0.0.0..Business is for...
+Dialogue: 0.1:31:57.75.1:31:59.83.Default..0.0.0..those who want to do business.
+Dialogue: 0.1:32:01.46.1:32:02.50.Default..0.0.0..Man-dik.
+Dialogue: 0.1:32:03.25.1:32:04.79.Default..0.0.0..If you want your father's seat. I'll support you fully.
+Dialogue: 0.1:32:05.63.1:32:07.25.Default..0.0.0..But if you intend to sabotage the family
+Dialogue: 0.1:32:08.25.1:32:10.83.Default..0.0.0..I'll be your worst enemy.
+Dialogue: 0.1:32:12.42.1:32:14.21.Default..0.0.0..How's my piece?
+Dialogue: 0.1:32:28.50.1:32:30.96.Default..0.0.0..{\i1}Got it right here.{\i0}
+Dialogue: 0.1:32:33.46.1:32:34.87.Default..0.0.0..Wipe it daily.
+Dialogue: 0.1:32:35.83.1:32:36.87.Default..0.0.0..The cleaner job I read about...
+Dialogue: 0.1:32:38.58.1:32:42.58.Default..0.0.0..{\i1}What's the going rate these days?{\i0}
+Dialogue: 0.1:32:43.42.1:32:44.37.Default..0.0.0..$1.5 million.
+Dialogue: 0.1:32:45.25.1:32:47.04.Default..0.0.0..{\i1}Just as I thought.{\i0}
+Dialogue: 0.1:32:47.46.1:32:48.96.Default..0.0.0..{\i1}Is the competition fierce?{\i0}
+Dialogue: 0.1:32:49.50.1:32:50.58.Default..0.0.0..Same as always.
+Dialogue: 0.1:32:53.88.1:32:56.92.Default..0.0.0..I'm quitting soon anyway.
+Dialogue: 0.1:32:58.00.1:32:58.87.Default..0.0.0..Why?
+Dialogue: 0.1:33:03.17.1:33:04.21.Default..0.0.0..I don't know.
+Dialogue: 0.1:33:08.54.1:33:10.67.Default..0.0.0..The better I get...
+Dialogue: 0.1:33:12.46.1:33:14.42.Default..0.0.0..the rustier I feel.
+Dialogue: 0.1:33:15.75.1:33:17.79.Default..0.0.0..{\i1}Knowing when to quit is a virtue. I suppose.{\i0}
+Dialogue: 0.1:33:18.67.1:33:21.21.Default..0.0.0..{\i1}Unlike me. broken and unable to let go.{\i0}
+Dialogue: 0.1:33:27.33.1:33:30.79.Default..0.0.0..Don't waste cigarettes reminding me.
+Dialogue: 0.1:33:31.54.1:33:35.54.Default..0.0.0..I'll pay what I owe.
+Dialogue: 0.1:33:36.92.1:33:39.96.Default..0.0.0..{\i1}I have good news and bad news.{\i0}
+Dialogue: 0.1:33:40.42.1:33:42.62.Default..0.0.0..{\i1}Which do you want first?{\i0}
+Dialogue: 0.1:33:43.58.1:33:45.00.Default..0.0.0..Whatever.
+Dialogue: 0.1:33:45.42.1:33:48.04.Default..0.0.0..{\i1}The bad news.{\i0}
+Dialogue: 0.1:33:48.25.1:33:49.37.Default..0.0.0..{\i1}chemo didn't work.{\i0}
+Dialogue: 0.1:33:49.88.1:33:52.79.Default..0.0.0..{\i1}Doctor says I have a month left.{\i0}
+Dialogue: 0.1:33:53.04.1:33:56.12.Default..0.0.0..{\i1}The good news. no need for an appeal.{\i0}
+Dialogue: 0.1:33:56.29.1:33:59.62.Default..0.0.0..{\i1}I only have three weeks left on my sentence.{\i0}
+Dialogue: 0.1:34:01.13.1:34:04.29.Default..0.0.0..{\i1}I've been in for 29 years and 8 months.{\i0}
+Dialogue: 0.1:34:04.54.1:34:09.00.Default..0.0.0..{\i1}I don't even know what a taxi costs anymore.{\i0}
+Dialogue: 0.1:34:09.29.1:34:10.96.Default..0.0.0..{\i1}Are you still at the same place?{\i0}
+Dialogue: 0.1:34:10.96.1:34:12.17.Default..0.0.0..Yeah.
+Dialogue: 0.1:34:13.33.1:34:14.62.Default..0.0.0..{\i1}Good.{\i0}
+Dialogue: 0.1:34:15.54.1:34:17.21.Default..0.0.0..{\i1}Pick me up then.{\i0}
+Dialogue: 0.1:34:18.08.1:34:20.21.Default..0.0.0..{\i1}- Don't die.\N- Time's up.{\i0}
+Dialogue: 0.1:34:22.04.1:34:23.83.Default..0.0.0..{\i1}My name is Ching Man-sing.{\i0}
+Dialogue: 0.1:34:24.39.1:34:27.37.Default..0.0.0..{\i1}Few people know it.{\i0}
+Dialogue: 0.1:34:28.54.1:34:29.71.Default..0.0.0..{\i1}I have no attachments.{\i0}
+Dialogue: 0.1:34:29.71.1:34:30.87.Default..0.0.0..{\i1}No parents.{\i0}
+Dialogue: 0.1:34:30.88.1:34:32.12.Default..0.0.0..{\i1}No siblings.{\i0}
+Dialogue: 0.1:34:32.13.1:34:34.58.Default..0.0.0..{\i1}No family. friends or life.{\i0}
+Dialogue: 0.1:34:34.58.1:34:36.92.Default..0.0.0..{\i1}No joy. no sorrow{\i0}
+Dialogue: 0.1:34:37.54.1:34:39.87.Default..0.0.0..{\i1}and no money.{\i0}
+Dialogue: 0.1:34:39.92.1:34:42.87.Default..0.0.0..{\i1}I have more nightmares than memories.{\i0}
+Dialogue: 0.1:34:43.65.1:34:45.42.Default..0.0.0..{\i1}Not long now...{\i0}
+Dialogue: 0.1:34:45.44.1:34:47.50.Default..0.0.0..{\i1}before this nightmare ends.{\i0}
+Dialogue: 0.1:35:01.63.1:35:02.92.Default..0.0.0..Dinner!
+Dialogue: 0.1:35:04.08.1:35:06.37.Default..0.0.0..With inflation...
+Dialogue: 0.1:35:06.38.1:35:08.12.Default..0.0.0..it's an extra $200 per person tonight.
+Dialogue: 0.1:35:08.13.1:35:09.62.Default..0.0.0..Piss off.
+Dialogue: 0.1:35:09.63.1:35:11.62.Default..0.0.0..Total scammer.
+Dialogue: 0.1:35:11.79.1:35:13.87.Default..0.0.0..If you're that desperate for cash
+Dialogue: 0.1:35:13.88.1:35:15.46.Default..0.0.0..be a hitman instead.
+Dialogue: 0.1:35:16.13.1:35:20.42.Default..0.0.0..You'd be my first target. cheapskate.
+Dialogue: 0.1:35:20.63.1:35:22.04.Default..0.0.0..I'd happily do it
+Dialogue: 0.1:35:22.04.1:35:24.12.Default..0.0.0..for a price.
+Dialogue: 0.1:35:24.13.1:35:25.67.Default..0.0.0..Same.
+Dialogue: 0.1:35:28.58.1:35:30.46.Default..0.0.0..Don't bother. My life isn't worth much.
+Dialogue: 0.1:35:30.46.1:35:34.21.Default..0.0.0..It'd cost you two supermarket vouchers
+Dialogue: 0.1:35:34.21.1:35:35.87.Default..0.0.0..hardly worth the effort...
+Dialogue: 0.1:35:37.21.1:35:38.92.Default..0.0.0..Anyway. this is where the money is.
+Dialogue: 0.1:35:46.63.1:35:50.83.Default..0.0.0..Isn't this the asshole who sends dogs to steal?
+Dialogue: 0.1:35:50.83.1:35:52.08.Default..0.0.0..Yeah.
+Dialogue: 0.1:35:52.21.1:35:54.37.Default..0.0.0..He's being escorted to a funeral.
+Dialogue: 0.1:35:54.38.1:35:56.37.Default..0.0.0..Two cop cars. eight officers.
+Dialogue: 0.1:35:56.38.1:35:57.46.Default..0.0.0..One fugitive.
+Dialogue: 0.1:35:57.46.1:35:58.58.Default..0.0.0..$50 million.
+Dialogue: 0.1:35:58.88.1:35:59.96.Default..0.0.0..The other contract is the same.
+Dialogue: 0.1:36:00.21.1:36:01.21.Default..0.0.0..Also $50 million.
+Dialogue: 0.1:36:01.21.1:36:03.17.Default..0.0.0..Kill the hitman sent to kill him.
+Dialogue: 0.1:36:05.04.1:36:07.17.Default..0.0.0..The second job sounds much easier.
+Dialogue: 0.1:36:07.17.1:36:08.87.Default..0.0.0..Spoken like a rookie.
+Dialogue: 0.1:36:08.96.1:36:13.71.Default..0.0.0..Anyway. whoever takes that first contract
+Dialogue: 0.1:36:13.92.1:36:15.79.Default..0.0.0..has a death wish.
+Dialogue: 0.1:36:16.29.1:36:17.58.Default..0.0.0..I need the money.
+Dialogue: 0.1:36:17.58.1:36:19.83.Default..0.0.0..I'm not fighting eight cops.
+Dialogue: 0.1:36:19.83.1:36:21.37.Default..0.0.0..Whoever takes the first job
+Dialogue: 0.1:36:21.38.1:36:22.62.Default..0.0.0..I'll take the second one.
+Dialogue: 0.1:36:22.63.1:36:23.58.Default..0.0.0..It's a Catch-22.
+Dialogue: 0.1:36:23.58.1:36:25.21.Default..0.0.0..Look at him. all grown up.
+Dialogue: 0.1:36:25.21.1:36:28.21.Default..0.0.0..Think it over. Let me know tomorrow.
+Dialogue: 0.1:36:33.63.1:36:36.46.Default..0.0.0..Just turn the light on.
+Dialogue: 0.1:36:36.46.1:36:38.17.Default..0.0.0..You're going blind.
+Dialogue: 0.1:36:39.83.1:36:42.46.Default..0.0.0..I'm the only one who can decode this book.
+Dialogue: 0.1:36:42.46.1:36:44.83.Default..0.0.0..Isn't that an achievement?
+Dialogue: 0.1:36:49.63.1:36:52.17.Default..0.0.0..Checkered fabric
+Dialogue: 0.1:36:52.17.1:36:53.92.Default..0.0.0..means take a life.
+Dialogue: 0.1:36:54.42.1:36:55.92.Default..0.0.0..Horizontal stripes
+Dialogue: 0.1:36:55.92.1:36:57.08.Default..0.0.0..cripple them.
+Dialogue: 0.1:36:57.08.1:36:59.12.Default..0.0.0..but take a limb.
+Dialogue: 0.1:37:02.33.1:37:03.58.Default..0.0.0..Red thread
+Dialogue: 0.1:37:03.92.1:37:05.21.Default..0.0.0..make them bleed.
+Dialogue: 0.1:37:08.17.1:37:09.21.Default..0.0.0..Single-breasted
+Dialogue: 0.1:37:09.79.1:37:11.29.Default..0.0.0..solo job.
+Dialogue: 0.1:37:11.29.1:37:12.33.Default..0.0.0..Double-breasted
+Dialogue: 0.1:37:12.33.1:37:13.87.Default..0.0.0..expect competition.
+Dialogue: 0.1:37:15.92.1:37:17.96.Default..0.0.0..Buttons denote target count.
+Dialogue: 0.1:37:18.29.1:37:20.37.Default..0.0.0..Cufflinks mean kill a cop.
+Dialogue: 0.1:37:21.63.1:37:23.21.Default..0.0.0..So eight cops would be...
+Dialogue: 0.1:37:23.33.1:37:25.08.Default..0.0.0..eight cufflinks?
+Dialogue: 0.1:37:29.13.1:37:32.12.Default..0.0.0..Why bother?
+Dialogue: 0.1:37:32.13.1:37:33.71.Default..0.0.0..I might as well wrap you in a shroud.
+Dialogue: 0.1:37:36.46.1:37:38.12.Default..0.0.0..Everything has its time.
+Dialogue: 0.1:37:42.38.1:37:43.42.Default..0.0.0..Isn't that right?
+Dialogue: 0.1:37:44.88.1:37:46.37.Default..0.0.0..Just a passerby after all.
+Dialogue: 0.1:38:08.46.1:38:09.42.Default..0.0.0..Come on...
+Dialogue: 0.1:38:10.29.1:38:11.54.Default..0.0.0..Pick a fabric.
+Dialogue: 0.1:38:24.17.1:38:25.62.Default..0.0.0..No.
+Dialogue: 0.1:38:34.79.1:38:36.37.Default..0.0.0..That's fine...
+Dialogue: 0.1:38:39.88.1:38:41.37.Default..0.0.0..no rush.
+Dialogue: 0.1:38:42.54.1:38:43.83.Default..0.0.0..Stay a while longer.
+Dialogue: 0.1:38:58.92.1:39:02.42.Default..0.0.0..The police found out Mak was your patient.
+Dialogue: 0.1:39:07.50.1:39:08.96.Default..0.0.0..Does it worry you?
+Dialogue: 0.1:39:14.38.1:39:16.40.Default..0.0.0..I knew they'd come for me
+Dialogue: 0.1:39:16.40.1:39:18.42.Default..0.0.0..once they realized they had nothing on you.
+Dialogue: 0.1:39:25.75.1:39:27.37.Default..0.0.0..Till death do us part.
+Dialogue: 0.1:39:29.58.1:39:31.29.Default..0.0.0..Till death do us part.
+Dialogue: 0.1:39:55.13.1:39:59.00.Default..0.0.0..I know you feel you owe your brother.
+Dialogue: 0.1:39:59.02.1:40:01.79.Default..0.0.0..That's why I don't think you should see him.
+Dialogue: 0.1:40:02.01.1:40:05.42.Default..0.0.0..But if you insist. promise me...
+Dialogue: 0.1:40:08.38.1:40:10.08.Default..0.0.0..you'll come home.
+Dialogue: 0.1:41:15.58.1:41:19.08.Default..0.0.0..I need the money. It's a Catch-22.
+Dialogue: 0.1:41:29.46.1:41:30.96.Default..0.0.0..There are no friends on a battlefield.
+Dialogue: 0.1:43:35.17.1:43:37.21.Default..0.0.0..Mr. Lei. you have 30 minutes.
+Dialogue: 0.1:44:08.08.1:44:12.00.Default..0.0.0..All this way for a photo?
+Dialogue: 0.1:44:12.08.1:44:13.29.Default..0.0.0..His body was obliterated.
+Dialogue: 0.1:44:13.38.1:44:14.54.Default..0.0.0..There was nothing left to bury.
+Dialogue: 0.1:44:16.29.1:44:17.67.Default..0.0.0..His final wish was to see you.
+Dialogue: 0.1:44:18.13.1:44:19.75.Default..0.0.0..So here we are...
+Dialogue: 0.1:44:20.67.1:44:22.37.Default..0.0.0..Do you have anything to say to him?
+Dialogue: 0.1:44:39.29.1:44:40.96.Default..0.0.0..Rest in peace.
+Dialogue: 0.1:44:47.13.1:44:50.54.Default..0.0.0..Brother. I didn't come here to fight you.
+Dialogue: 0.1:44:51.92.1:44:53.67.Default..0.0.0..I have no interest in your position as Chairman.
+Dialogue: 0.1:45:10.79.1:45:12.37.Default..0.0.0..Do you know what this is?
+Dialogue: 0.1:45:15.83.1:45:17.08.Default..0.0.0..Erimin 5?
+Dialogue: 0.1:45:19.71.1:45:20.75.Default..0.0.0..Painkillers.
+Dialogue: 0.1:45:22.71.1:45:24.75.Default..0.0.0..Do you know the production cost?
+Dialogue: 0.1:45:29.17.1:45:30.67.Default..0.0.0..Eight cents a tablet.
+Dialogue: 0.1:45:31.50.1:45:32.87.Default..0.0.0..A bottle of thirty...
+Dialogue: 0.1:45:33.38.1:45:35.12.Default..0.0.0..sells for $50.
+Dialogue: 0.1:45:37.21.1:45:38.37.Default..0.0.0..Good profit.
+Dialogue: 0.1:45:41.13.1:45:43.92.Default..0.0.0..Guess what the world's most used drugs are?
+Dialogue: 0.1:45:46.08.1:45:47.58.Default..0.0.0..These right here.
+Dialogue: 0.1:45:49.96.1:45:52.42.Default..0.0.0..Two for a fever.
+Dialogue: 0.1:45:52.54.1:45:55.50.Default..0.0.0..Two for a sore back.
+Dialogue: 0.1:45:55.54.1:45:57.71.Default..0.0.0..All for peace of mind.
+Dialogue: 0.1:46:00.75.1:46:02.71.Default..0.0.0..Cold. sleeping.
+Dialogue: 0.1:46:03.25.1:46:04.96.Default..0.0.0..weight-loss and stomach medicine...
+Dialogue: 0.1:46:05.71.1:46:09.04.Default..0.0.0..they're the most addictive substances on Earth
+Dialogue: 0.1:46:10.25.1:46:12.17.Default..0.0.0..and pharmaceutical companies are the biggest dealers.
+Dialogue: 0.1:46:14.08.1:46:15.75.Default..0.0.0..Best of all. it's legal.
+Dialogue: 0.1:46:17.25.1:46:20.42.Default..0.0.0..The business is yours
+Dialogue: 0.1:46:21.21.1:46:23.58.Default..0.0.0..if you're willing to go legitimate.
+Dialogue: 0.1:46:25.42.1:46:27.50.Default..0.0.0..Another group is coming up.
+Dialogue: 0.1:46:27.50.1:46:29.17.Default..0.0.0..{\i1}I don't get it. Why risk your life?{\i0}
+Dialogue: 0.1:46:29.17.1:46:31.08.Default..0.0.0..{\i1}Some things aren't for you to decide.{\i0}
+Dialogue: 0.1:46:31.08.1:46:33.79.Default..0.0.0..{\i1}I know Taiyat is getting out soon{\i0}
+Dialogue: 0.1:46:34.38.1:46:36.50.Default..0.0.0..{\i1}but he's a dead man walking.{\i0}
+Dialogue: 0.1:46:36.50.1:46:38.37.Default..0.0.0..{\i1}You don't owe him anything.{\i0}
+Dialogue: 0.1:46:39.57.1:46:41.46.Default..0.0.0..{\i1}Can't you just disappear?{\i0}
+Dialogue: 0.1:46:42.33.1:46:45.58.Default..0.0.0..{\i1}My word is all I have.{\i0}
+Dialogue: 0.1:46:45.80.1:46:48.58.Default..0.0.0..{\i1}I'd rather die than live with regret.{\i0}
+Dialogue: 0.1:47:00.21.1:47:01.50.Default..0.0.0..When I heard
+Dialogue: 0.1:47:02.79.1:47:04.12.Default..0.0.0..you cut the supply chain.
+Dialogue: 0.1:47:05.42.1:47:06.92.Default..0.0.0..I came back
+Dialogue: 0.1:47:06.92.1:47:09.71.Default..0.0.0..hoping we could expand the empire.
+Dialogue: 0.1:47:13.88.1:47:15.92.Default..0.0.0..Who knew your big plan was to become a philanthropist?
+Dialogue: 0.1:47:18.04.1:47:19.08.Default..0.0.0..Fine.
+Dialogue: 0.1:47:20.13.1:47:21.37.Default..0.0.0..You do you.
+Dialogue: 0.1:47:21.58.1:47:22.79.Default..0.0.0..I do me.
+Dialogue: 0.1:47:23.29.1:47:25.25.Default..0.0.0..You ban drugs. I'll supply them.
+Dialogue: 0.1:47:25.29.1:47:26.96.Default..0.0.0..It all comes back to us in the end.
+Dialogue: 0.1:47:47.54.1:47:49.04.Default..0.0.0..What if I refuse?
+Dialogue: 0.1:47:51.88.1:47:56.29.Default..0.0.0..I accept that the family owes you.
+Dialogue: 0.1:47:59.54.1:48:01.08.Default..0.0.0..You didn't have a choice back then.
+Dialogue: 0.1:48:07.17.1:48:08.71.Default..0.0.0..Today. you have a choice.
+Dialogue: 0.1:49:13.13.1:49:17.00.Default..0.0.0..Who do you think that man outside is for? You or me?
+Dialogue: 0.1:49:29.83.1:49:31.96.Default..0.0.0..Alas. I fear death.
+Dialogue: 0.1:49:35.83.1:49:37.12.Default..0.0.0..I'm worthless.
+Dialogue: 0.1:49:56.25.1:49:57.83.Default..0.0.0..Leave him.
+Dialogue: 0.1:50:16.00.1:50:17.71.Default..0.0.0..The struggle...
+Dialogue: 0.1:50:19.08.1:50:20.04.Default..0.0.0..was it worth it?
+Dialogue: 0.1:51:00.25.1:51:03.54.Default..0.0.0..Lei Pak-san built his legacy on trafficking.
+Dialogue: 0.1:51:03.54.1:51:06.83.Default..0.0.0..Now his son wants a fresh start by leaving it behind.
+Dialogue: 0.1:51:07.38.1:51:11.96.Default..0.0.0..That family has always treated this place like a playground.
+Dialogue: 0.1:51:12.06.1:51:16.60.Default..0.0.0..Do you know why Lei Man-dik was allowed
+Dialogue: 0.1:51:16.63.1:51:18.54.Default..0.0.0..to return without consequences?
+Dialogue: 0.1:51:18.88.1:51:23.92.Default..0.0.0..Because the Government knows this game better.
+Dialogue: 0.1:51:31.08.1:51:33.04.Default..0.0.0..Now that he's dead
+Dialogue: 0.1:51:33.33.1:51:35.62.Default..0.0.0..and Mou-tung is in a coma
+Dialogue: 0.1:51:35.96.1:51:38.63.Default..0.0.0..you're the only one left with a voice.
+Dialogue: 0.1:51:38.65.1:51:40.13.Default..0.0.0..If you want to play games
+Dialogue: 0.1:51:40.15.1:51:43.33.Default..0.0.0..we have plenty of ammunition ready for you.
+Dialogue: 0.1:51:43.46.1:51:45.53.Default..0.0.0..But a word of advice
+Dialogue: 0.1:51:45.56.1:51:47.38.Default..0.0.0..You aren't a Lei by blood.
+Dialogue: 0.1:51:47.40.1:51:49.34.Default..0.0.0..It won't be easy for you
+Dialogue: 0.1:51:49.36.1:51:52.20.Default..0.0.0..even with that baby in your womb.
+Dialogue: 0.1:51:52.22.1:51:53.93.Default..0.0.0..Tread lightly.
+Dialogue: 0.1:51:56.13.1:51:58.08.Default..0.0.0..{\i1}Police confirm a wanted suspect{\i0}
+Dialogue: 0.1:51:58.11.1:52:01.20.Default..0.0.0..{\i1}was present at Lei Pak-san's funeral.{\i0}
+Dialogue: 0.1:52:01.41.1:52:03.61.Default..0.0.0..{\i1}leading to the shooting of his son. Mou-tung{\i0}
+Dialogue: 0.1:52:03.63.1:52:05.00.Default..0.0.0..{\i1}who remains in critical condition.{\i0}
+Dialogue: 0.1:52:05.03.1:52:07.44.Default..0.0.0..{\i1}Security lapses have prompted serious concern.{\i0}
+Dialogue: 0.1:52:07.58.1:52:09.21.Default..0.0.0..{\i1}What is your response. Chief?{\i0}
+Dialogue: 0.1:52:10.08.1:52:14.29.Default..0.0.0..{\i1}I'm not in a position to comment.{\i0}
+Dialogue: 0.1:52:14.32.1:52:15.77.Default..0.0.0..{\i1}Let me put it this way{\i0}
+Dialogue: 0.1:52:15.79.1:52:18.58.Default..0.0.0..{\i1}Everyone should be vigilant.{\i0}
+Dialogue: 0.1:52:18.58.1:52:19.37.Default..0.0.0..Thank you. Uncle Loi.
+Dialogue: 0.1:53:17.42.1:53:18.63.Default..0.0.0..{\i1}A woman{\i0}
+Dialogue: 0.1:53:18.65.1:53:22.43.Default..0.0.0..{\i1}should do what a woman is meant to...{\i0}
+Dialogue: 0.1:53:22.46.1:53:25.33.Default..0.0.0..{\i1}enjoy life and soak in the sun.{\i0}
+Dialogue: 0.1:53:25.75.1:53:28.25.Default..0.0.0..{\i1}Mou-tung's plan failed.{\i0}
+Dialogue: 0.1:53:28.33.1:53:30.46.Default..0.0.0..{\i1}Is the drug suspension still in effect?{\i0}
+Dialogue: 0.1:53:32.50.1:53:34.96.Default..0.0.0..{\i1}You've had your fun.{\i0}
+Dialogue: 0.1:53:35.25.1:53:37.42.Default..0.0.0..Offer me what I do not seek
+Dialogue: 0.1:53:39.00.1:53:40.21.Default..0.0.0..and I will
+Dialogue: 0.1:53:40.21.1:53:41.71.Default..0.0.0..let it pass.
+Dialogue: 0.1:53:42.67.1:53:44.96.Default..0.0.0..But should I desire what you withhold
+Dialogue: 0.1:53:45.79.1:53:47.79.Default..0.0.0..my patience will wear thin.
+Dialogue: 0.1:53:51.58.1:53:53.37.Default..0.0.0..You'll see...
+Dialogue: 0.1:54:12.46.1:54:14.21.Default..0.0.0..How's it going?
+Dialogue: 0.1:54:15.79.1:54:17.17.Default..0.0.0..{\i1}Good.{\i0}
+Dialogue: 0.1:54:17.29.1:54:18.96.Default..0.0.0..What do you mean good?
+Dialogue: 0.1:54:20.08.1:54:21.79.Default..0.0.0..Still tracking the price for me?
+Dialogue: 0.1:54:21.79.1:54:23.37.Default..0.0.0..{\i1}Are you coming to my baby's 100-day celebration?{\i0}
+Dialogue: 0.1:54:23.38.1:54:25.87.Default..0.0.0..What baby celebration?
+Dialogue: 0.1:54:26.54.1:54:28.96.Default..0.0.0..Do you know what you're saying?
+Dialogue: 0.1:54:28.98.1:54:33.62.Default..0.0.0..I know it's a bit sudden.
+Dialogue: 0.1:54:33.83.1:54:37.21.Default..0.0.0..Gan Fung-chuen was the one with the baby.
+Dialogue: 0.1:54:37.29.1:54:40.62.Default..0.0.0..But that case was closed. remember?
+Dialogue: 0.1:54:40.71.1:54:43.79.Default..0.0.0..Are you getting high like the rest?
+Dialogue: 0.1:54:44.73.1:54:46.78.Default..0.0.0..I'll call you back later.
+Dialogue: 0.1:54:46.85.1:54:49.67.Default..0.0.0..Hopefully. you'll be back to normal by then.
+Dialogue: 0.1:54:50.43.1:54:51.79.Default..0.0.0..Also...
+Dialogue: 0.1:54:52.04.1:54:53.42.Default..0.0.0..don't forget your meds.
+Dialogue: 0.1:54:53.54.1:54:54.96.Default..0.0.0..Take care.
+Dialogue: 0.1:54:55.33.1:54:56.67.Default..0.0.0..Don't die.
+Dialogue: 0.1:55:45.54.1:55:47.83.Default..0.0.0..Anything else. sir?
+Dialogue: 0.1:55:59.54.1:56:00.67.Default..0.0.0..Sorry...
+Dialogue: 0.1:56:00.83.1:56:02.42.Default..0.0.0..No outside food allowed.
+Dialogue: 0.1:56:03.46.1:56:05.08.Default..0.0.0..Let him finish.
+Dialogue: 0.1:56:06.58.1:56:08.04.Default..0.0.0..Guinness.
+Dialogue: 0.1:56:23.58.1:56:25.96.Default..0.0.0..{\i1}The horse race is about to start.{\i0}
+Dialogue: 0.1:56:26.04.1:56:28.83.Default..0.0.0..{\i1}Hurry up or I'll miss the bet.{\i0}
+Dialogue: 0.1:56:31.29.1:56:33.21.Default..0.0.0..I can't force him to leave.
+Dialogue: 0.1:56:33.38.1:56:35.54.Default..0.0.0..{\i1}Can't you kick him out?{\i0}
+Dialogue: 0.1:56:47.29.1:56:49.17.Default..0.0.0..Target's on the move. let's go.
+Dialogue: 0.1:56:49.33.1:56:52.33.Default..0.0.0..{\i1}Remember. three fingers only.{\i0}
+Dialogue: 0.1:56:53.96.1:56:55.37.Default..0.0.0..Teaching again?
+Dialogue: 0.1:56:58.71.1:57:00.54.Default..0.0.0..I have nothing else
+Dialogue: 0.1:57:00.54.1:57:02.29.Default..0.0.0..to do with my time.
+Dialogue: 0.1:57:02.38.1:57:03.79.Default..0.0.0..Might as well teach.
+Dialogue: 0.1:57:04.63.1:57:08.46.Default..0.0.0..I have a job for you. Interested?
+Dialogue: 0.1:57:10.17.1:57:11.92.Default..0.0.0..Let Gan handle it.
+Dialogue: 0.1:57:12.88.1:57:14.58.Default..0.0.0..He's been with you for years
+Dialogue: 0.1:57:14.79.1:57:16.71.Default..0.0.0..it's time he stepped up.
+Dialogue: 0.1:57:18.13.1:57:20.96.Default..0.0.0..I don't want to bother you with petty details
+Dialogue: 0.1:57:20.96.1:57:24.42.Default..0.0.0..but I worry if you handle the big stuff.
+Dialogue: 0.1:57:24.71.1:57:27.17.Default..0.0.0..I'll become obsolete.
+Dialogue: 0.1:57:34.17.1:57:35.42.Default..0.0.0..Has he been released?
+Dialogue: 0.1:57:35.46.1:57:36.08.Default..0.0.0..{\i1}Not yet.{\i0}
+Dialogue: 0.1:57:36.08.1:57:38.58.Default..0.0.0..{\i1}The police have more questions before discharging him.{\i0}
+Dialogue: 0.1:57:38.63.1:57:40.29.Default..0.0.0..{\i1}So Lei Pak-san will be detained for a few more days.{\i0}
+Dialogue: 0.1:57:40.42.1:57:41.71.Default..0.0.0..What now?
+Dialogue: 0.1:57:41.88.1:57:44.12.Default..0.0.0..{\i1}Yesterday. another gang tried to loot our product.{\i0}
+Dialogue: 0.1:57:44.33.1:57:46.54.Default..0.0.0..{\i1}The police want to keep the pressure on.{\i0}
+Dialogue: 0.1:57:46.54.1:57:48.71.Default..0.0.0..They want us to reduce the supply.
+Dialogue: 0.1:57:48.71.1:57:51.08.Default..0.0.0..Demand creates competition.
+Dialogue: 0.1:57:51.92.1:57:54.83.Default..0.0.0..Since when is Kiu Yin responsible for public order?
+Dialogue: 0.1:57:55.79.1:57:58.21.Default..0.0.0..{\i1}I'll handle it.{\i0}
+Dialogue: 0.1:58:03.42.1:58:04.67.Default..0.0.0..Sorry.
+Dialogue: 0.1:58:05.79.1:58:07.29.Default..0.0.0..What did the doctor say?
+Dialogue: 0.1:58:11.04.1:58:12.46.Default..0.0.0..I'm pregnant.
+Dialogue: 0.1:58:18.79.1:58:21.04.Default..0.0.0..Is the timing bad?
+Dialogue: 0.1:58:21.04.1:58:22.17.Default..0.0.0..Not at all.
+Dialogue: 0.1:58:29.17.1:58:30.96.Default..0.0.0..We can consider an abortion.
+Dialogue: 0.1:58:32.79.1:58:37.08.Default..0.0.0..You said you wanted a different path for your child.
