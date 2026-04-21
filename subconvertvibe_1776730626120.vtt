@@ -1,0 +1,264 @@
+WEBVTT
+
+[Script Info]
+Title: English (US)
+Original Script: toho  [http://www.crunchyroll.com/user/toho]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name.Fontname.Fontsize.PrimaryColour.SecondaryColour.OutlineColour.BackColour.Bold.Italic.Underline.Strikeout.ScaleX.ScaleY.Spacing.Angle.BorderStyle.Outline.Shadow.Alignment.MarginL.MarginR.MarginV.Encoding
+Style: Main.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Italics.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.-1.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+Style: Main - Top.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00000000.&H00000000.0.0.0.0.100.100.0.0.1.2.1.8.0010.0010.0018.1
+Style: Flashback.Trebuchet MS.24.&H00FFFFFF.&H000000FF.&H00500000.&H00500000.0.0.0.0.100.100.0.0.1.2.1.2.0010.0010.0018.1
+
+[Events]
+Format: Layer.Start.End.Style.Name.MarginL.MarginR.MarginV.Effect.Text
+Dialogue: 0.0:00:00.00.0:00:00.00.Main..0000.0000.0000..
+Dialogue: 0.0:00:02.00.0:00:04.72.Main - Top.Radio Host.0000.0000.0000..{\i1}And now. the weather for the seven cities.{\i0}
+Dialogue: 0.0:00:04.72.0:00:08.53.Main - Top.Radio Host.0000.0000.0000..{\i1}Strong air currents have \Nenlarged the large sandstorm{\i0}
+Dialogue: 0.0:00:08.53.0:00:12.75.Main - Top.Radio Host.0000.0000.0000..{\i1}that formed in the center of the continent.{\i0}
+Dialogue: 0.0:00:12.75.0:00:17.51.Main - Top.Radio Host.0000.0000.0000..{\i1}It's expected to reach the west soon.{\i0}
+Dialogue: 0.0:00:19.49.0:00:24.18.Main - Top.Radio Host.0000.0000.0000..{\i1}Residents in the area are advised to take shelter.{\i0}
+Dialogue: 0.0:00:19.83.0:00:21.90.Main.Vash.0000.0000.0000..To the main street! Hurry!
+Dialogue: 0.0:00:23.33.0:00:25.47.Main.Nebraska.0000.0000.0000..Gofsef! Where are you?!
+Dialogue: 0.0:00:25.47.0:00:26.57.Main.Vash.0000.0000.0000..Hurry! This way!
+Dialogue: 0.0:00:26.57.0:00:27.72.Main.Nebraska.0000.0000.0000..Gofsef!
+Dialogue: 0.0:00:27.72.0:00:32.32.Main - Top.Radio Host.0000.0000.0000..{\i1}There is risk of widespread plant disruption\Nthrough the late afternoon.{\i0}
+Dialogue: 0.0:00:28.95.0:00:29.92.Main.Soldier 3-A.0000.0000.0000..What's going on?!
+Dialogue: 0.0:00:32.32.0:00:34.92.Main - Top.Radio Host.0000.0000.0000..{\i1}Please prepare as best you can!{\i0}
+Dialogue: 0.0:00:34.92.0:00:41.17.Main.Nebraska.0000.0000.0000..He ran outside to make sure \Nnobody else got hurt...
+Dialogue: 0.0:00:47.27.0:00:48.73.Main.Meryl.0000.0000.0000..There are more of those things!
+Dialogue: 0.0:00:48.73.0:00:49.66.Main.Rosa.0000.0000.0000..Meryl!
+Dialogue: 0.0:00:49.66.0:00:52.03.Main.Roberto.0000.0000.0000..They're bombs! Be careful! Damn it!
+Dialogue: 0.0:00:52.37.0:00:53.38.Main.Soldier 3-B.0000.0000.0000..Bombs?!
+Dialogue: 0.0:00:55.36.0:00:56.50.Main.Rosa.0000.0000.0000..Tonis!
+Dialogue: 0.0:00:57.47.0:00:58.51.Main.Vash.0000.0000.0000..I'm here to help!
+Dialogue: 0.0:01:02.14.0:01:03.57.Main.Vash.0000.0000.0000..Damn! It won't come off!
+Dialogue: 0.0:01:03.57.0:01:04.94.Main.Roberto.0000.0000.0000..Don't mess with it!
+Dialogue: 0.0:01:04.94.0:01:08.73.Main.Roberto.0000.0000.0000..This design... It's gotta be\N the work of E. G. Bomber.
+Dialogue: 0.0:01:08.73.0:01:11.30.Main.Roberto.0000.0000.0000..An amateur won't be able to dismantle it.
+Dialogue: 0.0:01:13.23.0:01:14.39.Main.Soldier 3-B.0000.0000.0000..Get back!
+Dialogue: 0.0:01:16.49.0:01:18.76.Main.Soldier 3-B.0000.0000.0000..Please! Save the town!
+Dialogue: 0.0:01:29.63.0:01:31.28.Main.Vash.0000.0000.0000.."E. G. Bomber"?
+Dialogue: 0.0:01:31.28.0:01:34.05.Main.Roberto.0000.0000.0000..His real name is Ethan Gilbert Hamilton.
+Dialogue: 0.0:01:34.05.0:01:39.10.Main.Roberto.0000.0000.0000..He takes lives so easily that he earned \Nhimself the nickname "Easy Bomber."
+Dialogue: 0.0:01:39.10.0:01:40.88.Main.Roberto.0000.0000.0000..Worst bomb maniac ever.
+Dialogue: 0.0:01:40.88.0:01:43.20.Main.Meryl.0000.0000.0000..What does he want with this town?
+Dialogue: 0.0:01:43.20.0:01:44.32.Main.Roberto.0000.0000.0000..Who knows?
+Dialogue: 0.0:01:44.32.0:01:46.26.Main.Rosa.0000.0000.0000..How do we survive?
+Dialogue: 0.0:01:46.26.0:01:48.78.Main.Roberto.0000.0000.0000..We'll have to ask the bomber \Nhimself how to disable these.
+Dialogue: 0.0:01:48.78.0:01:51.24.Main.Roberto.0000.0000.0000..Assuming there {\i1}is{\i0} a way.
+Dialogue: 0.0:01:51.24.0:01:53.25.Main.Vash.0000.0000.0000..Then I'll find him and capture him.
+Dialogue: 0.0:01:53.54.0:01:55.49.Main.Vash.0000.0000.0000..At any rate. don't lose heart.
+Dialogue: 0.0:01:56.33.0:01:57.72.Main.Rosa.0000.0000.0000..Vash...
+Dialogue: 0.0:01:57.72.0:01:59.10.Main.Meryl.0000.0000.0000..But where is he?
+Dialogue: 0.0:01:59.58.0:02:03.22.Main.Roberto.0000.0000.0000..His type likes to watch \Ntheir "work" play out.
+Dialogue: 0.0:02:04.95.0:02:07.38.Main.Vash.0000.0000.0000..A place with a good view of the area...
+Dialogue: 0.0:02:17.60.0:02:19.37.Main.Nebraska.0000.0000.0000..There he is! Get him!
+Dialogue: 0.0:02:19.37.0:02:20.16.Main..0000.0000.0000..Hurry!
+Dialogue: 0.0:02:26.08.0:02:27.62.Main.Nebraska.0000.0000.0000..Land mines?!
+Dialogue: 0.0:02:27.62.0:02:30.96.Main.E. G..0000.0000.0000..This whole town is full of my creations.
+Dialogue: 0.0:02:32.98.0:02:34.56.Main.Vash.0000.0000.0000..E. G. Bomber?
+Dialogue: 0.0:02:36.65.0:02:39.76.Main.E. G..0000.0000.0000..I no longer go by that.
+Dialogue: 0.0:02:39.76.0:02:43.54.Main.E. G..0000.0000.0000..Thanks to someone. I've been reborn.
+Dialogue: 0.0:02:56.45.0:03:01.39.Main.E. G..0000.0000.0000..E. G. the Mine... That's my new name!
+Dialogue: 0.0:03:03.49.0:03:07.71.Main.E. G..0000.0000.0000..Now then. where's the treasure?
+Dialogue: 0.0:04:38.42.0:04:41.58.Main.E. G..0000.0000.0000..Now then. where's the treasure?
+Dialogue: 0.0:04:49.85.0:04:51.60.Main.Vash.0000.0000.0000..He's after the plant. too!
+Dialogue: 0.0:05:10.84.0:05:11.95.Main.E. G..0000.0000.0000..That must be it.
+Dialogue: 0.0:05:23.09.0:05:24.27.Main.Meryl.0000.0000.0000..Vash!
+Dialogue: 0.0:05:27.08.0:05:28.63.Main.Roberto.0000.0000.0000..I get it now.
+Dialogue: 0.0:05:28.63.0:05:31.85.Main.Roberto.0000.0000.0000..The moment you get involved with him. \Nyou get swept into trouble.
+Dialogue: 0.0:05:31.85.0:05:35.76.Main.Roberto.0000.0000.0000..The Humanoid Typhoon's a fitting name.
+Dialogue: 0.0:05:35.76.0:05:37.41.Main.Meryl.0000.0000.0000..What do you mean by that?
+Dialogue: 0.0:05:37.83.0:05:40.68.Main.Roberto.0000.0000.0000..Whoa there. Stay back.
+Dialogue: 0.0:05:40.68.0:05:43.99.Main.Roberto.0000.0000.0000..Unless your idea of a good time \Nis suicide with a drunk.
+Dialogue: 0.0:05:43.99.0:05:46.28.Main.Meryl.0000.0000.0000..This is no time for your \Ntrademark cynicism...
+Dialogue: 0.0:05:47.17.0:05:48.74.Main.Meryl.0000.0000.0000..Suicide?
+Dialogue: 0.0:05:48.74.0:05:50.20.Main.Meryl.0000.0000.0000..That's it!
+Dialogue: 0.0:05:52.99.0:05:54.41.Main.Soldier 3-C.0000.0000.0000..Stay back!
+Dialogue: 0.0:05:54.41.0:05:56.72.Main.Soldier 3-C.0000.0000.0000..The town's covered in explosives!
+Dialogue: 0.0:05:56.72.0:05:58.27.Main.Soldier 3-C.0000.0000.0000..You there!
+Dialogue: 0.0:06:00.50.0:06:04.51.Main.Title.0000.0000.0000..{\bord0\shad0\pos(322.667.162.667)\fs22\fnCourier New\c&HDCE1DF&}#03 Bright Light. Shine through the Darkness
+Dialogue: 0.0:06:19.47.0:06:24.41.Main.Rosa.0000.0000.0000..Don't worry. Vash will take care of it.
+Dialogue: 0.0:06:30.28.0:06:31.81.Main.E. G..0000.0000.0000..So you're here.
+Dialogue: 0.0:06:31.81.0:06:33.49.Main.Vash.0000.0000.0000..Disable the bombs.
+Dialogue: 0.0:06:37.59.0:06:39.96.Main.Vash.0000.0000.0000..You can't get me with the same old trick!
+Dialogue: 0.0:06:54.25.0:06:57.29.Main.Vash.0000.0000.0000..If it's the plant that you want. \Nthen your business here is done!
+Dialogue: 0.0:06:57.29.0:06:59.27.Main.Vash.0000.0000.0000..Disable the bombs now!
+Dialogue: 0.0:06:59.27.0:07:01.06.Main.E. G..0000.0000.0000..You don't get it. do you?
+Dialogue: 0.0:07:01.06.0:07:03.61.Main.E. G..0000.0000.0000..I'm not killing to steal...
+Dialogue: 0.0:07:03.61.0:07:06.11.Main.E. G..0000.0000.0000..I'm stealing to kill!
+Dialogue: 0.0:07:09.76.0:07:11.07.Main.E. G..0000.0000.0000..Now suffer!
+Dialogue: 0.0:07:16.62.0:07:17.79.Main.Vash.0000.0000.0000..Enough.
+Dialogue: 0.0:07:19.89.0:07:21.08.Main.E. G..0000.0000.0000..Damn!
+Dialogue: 0.0:07:28.31.0:07:29.27.Main.Meryl.0000.0000.0000..Vash!
+Dialogue: 0.0:07:46.04.0:07:50.28.Main.E. G..0000.0000.0000..I beat the one and only Vash the Stampede!
+Dialogue: 0.0:07:51.14.0:07:52.58.Main.Roberto.0000.0000.0000..E. G. Bomber!
+Dialogue: 0.0:07:52.58.0:07:55.42.Main.E. G..0000.0000.0000..I told you it's {\i1}the Mine{\i0}!
+Dialogue: 0.0:08:00.13.0:08:01.96.Main.E. G..0000.0000.0000..You! Wh-What the—
+Dialogue: 0.0:08:01.96.0:08:04.31.Main.Roberto.0000.0000.0000..Tell us how to disable the bombs! Or else...
+Dialogue: 0.0:08:04.31.0:08:06.19.Main.Meryl.0000.0000.0000..We'll all die together!
+Dialogue: 0.0:08:06.19.0:08:07.42.Main.E. G..0000.0000.0000..Damn you!
+Dialogue: 0.0:08:07.42.0:08:09.49.Main.E. G..0000.0000.0000..Get off!
+Dialogue: 0.0:08:10.23.0:08:10.84.Main.Vash.0000.0000.0000..Spit it out!
+Dialogue: 0.0:08:12.96.0:08:14.19.Main.Vash.0000.0000.0000..Talk!
+Dialogue: 0.0:08:17.92.0:08:19.98.Main.E. G..0000.0000.0000..The red button on my back!
+Dialogue: 0.0:08:20.68.0:08:23.10.Main.E. G..0000.0000.0000..Push it! Push it already!
+Dialogue: 0.0:08:34.53.0:08:36.31.Main.Townsfolk 3-A.0000.0000.0000..We're saved! We're saved!
+Dialogue: 0.0:08:36.31.0:08:39.21.Main.Townsfolk 3-B.0000.0000.0000..Are you all right? Is anyone injured?
+Dialogue: 0.0:08:43.93.0:08:45.88.Main.Nebraska.0000.0000.0000..You killed my son!
+Dialogue: 0.0:08:47.93.0:08:49.22.Main.Vash.0000.0000.0000..No. Nebraska.
+Dialogue: 0.0:08:49.22.0:08:50.84.Main.Nebraska.0000.0000.0000..Out of my way. Vash!
+Dialogue: 0.0:08:50.84.0:08:52.92.Main.Nebraska.0000.0000.0000..You'd protect this scoundrel?!
+Dialogue: 0.0:08:52.92.0:08:54.82.Main.Vash.0000.0000.0000..There's no point in revenge.
+Dialogue: 0.0:08:54.82.0:08:57.39.Main.Nebraska.0000.0000.0000..Whose side are you on?!
+Dialogue: 0.0:09:17.45.0:09:18.76.Main.Vash.0000.0000.0000..Run...
+Dialogue: 0.0:09:18.76.0:09:19.57.Main.Meryl.0000.0000.0000..Huh?
+Dialogue: 0.0:09:19.98.0:09:23.26.Main.Vash.0000.0000.0000..Everyone. run! Get outside of town!
+Dialogue: 0.0:09:24.62.0:09:25.83.Main.Nebraska.0000.0000.0000..You're not getting away!
+Dialogue: 0.0:09:27.00.0:09:28.09.Main.E. G..0000.0000.0000..Whoopsies!
+Dialogue: 0.0:09:30.57.0:09:31.93.Main.E. G..0000.0000.0000..You suck!
+Dialogue: 0.0:09:33.49.0:09:35.13.Main.Vash.0000.0000.0000..Hurry! Get outta here!
+Dialogue: 0.0:09:35.13.0:09:36.36.Main.Roberto.0000.0000.0000..Let's beat it!
+Dialogue: 0.0:09:36.36.0:09:37.13.Main.Meryl.0000.0000.0000..What about the Bomber?
+Dialogue: 0.0:09:37.13.0:09:38.43.Main.Roberto.0000.0000.0000..Not now! Run!
+Dialogue: 0.0:09:40.28.0:09:41.66.Main.Meryl.0000.0000.0000..Hurry. everyone!
+Dialogue: 0.0:09:49.99.0:09:51.75.Main.E. G..0000.0000.0000..It's him!
+Dialogue: 0.0:09:54.76.0:09:57.11.Main.E. G..0000.0000.0000..You grace me with your presence!
+Dialogue: 0.0:10:25.93.0:10:30.02.Main.E. G..0000.0000.0000..Master... Knives...
+Dialogue: 0.0:10:40.02.0:10:44.40.Main.Knives.0000.0000.0000..Have you ever desired \Nto converse with a god...
+Dialogue: 0.0:10:50.98.0:10:52.03.Main.Knives.0000.0000.0000..Vash?
+Dialogue: 0.0:10:53.19.0:10:54.61.Main.Knives.0000.0000.0000..It's been so long.
+Dialogue: 0.0:10:56.20.0:10:58.93.Main.Knives.0000.0000.0000..I see you still have that gun.
+Dialogue: 0.0:10:58.93.0:11:00.38.Main.Vash.0000.0000.0000..Why are you here?
+Dialogue: 0.0:11:02.06.0:11:03.72.Main.Vash.0000.0000.0000..Is it the plant?
+Dialogue: 0.0:11:03.72.0:11:06.99.Main.Knives.0000.0000.0000..I'm taking it back. It belongs to me.
+Dialogue: 0.0:11:06.99.0:11:07.97.Main.Knives.0000.0000.0000..Or rather...
+Dialogue: 0.0:11:08.93.0:11:10.52.Main.Knives.0000.0000.0000..It belongs to {\i1}us.{\i0}
+Dialogue: 0.0:11:10.52.0:11:12.32.Main.Vash.0000.0000.0000..I won't let you take it.
+Dialogue: 0.0:11:12.32.0:11:15.05.Main.Vash.0000.0000.0000..It's what's keeping the people \Nof this town alive!
+Dialogue: 0.0:11:16.82.0:11:21.03.Main.Knives.0000.0000.0000..You won't let me? Who's side are you on?
+Dialogue: 0.0:11:22.71.0:11:24.46.Main.Knives.0000.0000.0000..It must feel so nice.
+Dialogue: 0.0:11:24.46.0:11:28.82.Main.Knives.0000.0000.0000..All those flashy moves to save those people.\N earning their thanks...
+Dialogue: 0.0:11:28.82.0:11:31.60.Main.Knives.0000.0000.0000..A cure for your loneliness.
+Dialogue: 0.0:11:31.60.0:11:35.34.Main.Vash.0000.0000.0000..You haven't changed at all!
+Dialogue: 0.0:11:37.35.0:11:38.49.Main.Knives.0000.0000.0000..The same...
+Dialogue: 0.0:11:41.44.0:11:43.01.Main.Knives.0000.0000.0000..could be said of you.
+Dialogue: 0.0:11:55.20.0:11:57.77.Main.Knives.0000.0000.0000..You can't even control your gate yet?
+Dialogue: 0.0:11:57.77.0:11:58.78.Main.Young Vash.0000.0000.0000..Nai?
+Dialogue: 0.0:12:00.05.0:12:01.06.Main.Young Vash.0000.0000.0000..Nai?!
+Dialogue: 0.0:12:02.21.0:12:04.21.Main.Knives.0000.0000.0000..Goodbye. Vash.
+Dialogue: 0.0:12:08.62.0:12:10.65.Main.Nebraska.0000.0000.0000..Are you the boss?!
+Dialogue: 0.0:12:10.65.0:12:11.71.Main.Nebraska.0000.0000.0000..Take this!
+Dialogue: 0.0:12:16.52.0:12:17.27.Main.Vash.0000.0000.0000..Nai?
+Dialogue: 0.0:12:18.01.0:12:19.02.Main.Vash.0000.0000.0000..Damn!
+Dialogue: 0.0:12:21.68.0:12:24.37.Main.Nebraska.0000.0000.0000..Where'd he go?!
+Dialogue: 0.0:12:57.96.0:12:59.59.Main.Vash.0000.0000.0000..Run. Nebraska!
+Dialogue: 0.0:13:13.61.0:13:15.56.Main.Vash.0000.0000.0000..Someone. Nebraska needs help!
+Dialogue: 0.0:13:15.56.0:13:17.61.Main.Vash.0000.0000.0000..Don't die on me.
+Dialogue: 0.0:13:17.61.0:13:18.77.Main.Vash.0000.0000.0000..Stop. Nai!
+Dialogue: 0.0:13:19.80.0:13:21.03.Main.Vash.0000.0000.0000..Stop!
+Dialogue: 0.0:13:50.18.0:13:51.35.Main.Conrad.0000.0000.0000..There.
+Dialogue: 0.0:14:08.51.0:14:10.03.Main.Rosa.0000.0000.0000..You're not taking our plant!
+Dialogue: 0.0:14:16.52.0:14:18.08.Main.Rosa.0000.0000.0000..Do you hear me?!
+Dialogue: 0.0:14:27.66.0:14:29.05.Main.Conrad.0000.0000.0000..You should step aside.
+Dialogue: 0.0:14:29.63.0:14:31.96.Main.Conrad.0000.0000.0000..You have no chance in a fight.
+Dialogue: 0.0:14:31.96.0:14:34.60.Main.Knives.0000.0000.0000..Oh. you decided to show up. Doctor.
+Dialogue: 0.0:14:35.92.0:14:39.13.Main.Knives.0000.0000.0000..Good timing. Go and recover the other one.
+Dialogue: 0.0:14:44.17.0:14:45.28.Main.Knives.0000.0000.0000..I'll handle this.
+Dialogue: 0.0:14:47.01.0:14:48.61.Main.Rosa.0000.0000.0000..Not on my watch!
+Dialogue: 0.0:15:09.80.0:15:11.15.Main.Woman 2-A.0000.0000.0000..Rosa!
+Dialogue: 0.0:15:42.60.0:15:43.46.Main.Knives.0000.0000.0000..Here you are...
+Dialogue: 0.0:16:15.90.0:16:16.69.Main.Vash.0000.0000.0000..Nai!
+Dialogue: 0.0:16:19.08.0:16:20.90.Main.Vash.0000.0000.0000..Get away from there!
+Dialogue: 0.0:16:20.90.0:16:22.17.Main.Vash.0000.0000.0000..Put the plant down!
+Dialogue: 0.0:16:26.03.0:16:28.46.Main.Knives.0000.0000.0000..Whose side are you on?
+Dialogue: 0.0:16:30.80.0:16:32.60.Main.Meryl.0000.0000.0000..Are you sure it's this way?
+Dialogue: 0.0:16:32.60.0:16:35.72.Main.Roberto.0000.0000.0000..Don't lose your step. \NI don't want to die in a splat.
+Dialogue: 0.0:16:35.72.0:16:38.79.Main.Meryl.0000.0000.0000..Like I said. this is no time for your—
+Dialogue: 0.0:16:39.53.0:16:41.69.Main.Meryl.0000.0000.0000..Tonis? What are you doing here?
+Dialogue: 0.0:16:41.69.0:16:43.90.Main.Tonis.0000.0000.0000..Mom said to hide...
+Dialogue: 0.0:16:44.26.0:16:45.94.Main.Meryl.0000.0000.0000..So she's still in town.
+Dialogue: 0.0:16:47.80.0:16:48.81.Main.Meryl.0000.0000.0000..Is that...
+Dialogue: 0.0:16:52.07.0:16:53.47.Main.Vash.0000.0000.0000..The plant...
+Dialogue: 0.0:16:53.96.0:16:55.57.Main.Knives.0000.0000.0000..You never change.
+Dialogue: 0.0:16:56.09.0:16:58.79.Main.Knives.0000.0000.0000..Still a daydreamer full of empty words.
+Dialogue: 0.0:16:58.79.0:16:59.94.Main.Vash.0000.0000.0000..Stop!
+Dialogue: 0.0:17:01.27.0:17:03.11.Main.Knives.0000.0000.0000..Just stand back and watch.
+Dialogue: 0.0:17:03.11.0:17:04.96.Main.Knives.0000.0000.0000..Watch them all perish.
+Dialogue: 0.0:17:08.09.0:17:10.82.Main.Vash.0000.0000.0000..I'll say it again... Put the plant down!
+Dialogue: 0.0:17:10.82.0:17:12.32.Main.Knives.0000.0000.0000..You'd shoot me?
+Dialogue: 0.0:17:14.44.0:17:16.00.Main.Knives.0000.0000.0000..Your own big brother?
+Dialogue: 0.0:17:38.76.0:17:42.97.Main.Knives.0000.0000.0000..In the past. God rained fire from the sky.
+Dialogue: 0.0:17:43.48.0:17:46.46.Main.Knives.0000.0000.0000..destroying the city of depraved fools.
+Dialogue: 0.0:17:47.28.0:17:47.96.Main.Vash.0000.0000.0000..Don't do it...
+Dialogue: 0.0:17:49.32.0:17:51.73.Main.Knives.0000.0000.0000..To fix the world once and for all.
+Dialogue: 0.0:17:52.28.0:17:53.95.Main.Knives.0000.0000.0000..I'm moving ahead.
+Dialogue: 0.0:17:55.37.0:17:59.41.Main.Knives.0000.0000.0000..To bring everything back to even.
+Dialogue: 0.0:18:00.47.0:18:01.78.Main.Vash.0000.0000.0000..The whole town?
+Dialogue: 0.0:18:02.62.0:18:04.10.Main.Vash.0000.0000.0000..Rosa. run!
+Dialogue: 0.0:18:15.61.0:18:16.71.Main.Elendira.0000.0000.0000..Hurry.
+Dialogue: 0.0:18:28.25.0:18:29.05.Main.Vash.0000.0000.0000..Hurry!
+Dialogue: 0.0:18:48.70.0:18:51.02.Main.Vash.0000.0000.0000..Why. Nai?!
+Dialogue: 0.0:19:04.84.0:19:05.95.Main.Meryl.0000.0000.0000..Tonis!
+Dialogue: 0.0:19:10.80.0:19:13.00.Main.Vash.0000.0000.0000..Why... Why?!
+Dialogue: 0.0:19:13.41.0:19:15.42.Main.Vash.0000.0000.0000..Why. Nai?!
+Dialogue: 0.0:19:32.61.0:19:35.07.Main.Roberto.0000.0000.0000..Good job. You're a tough one.
+Dialogue: 0.0:19:36.11.0:19:39.93.Main.Roberto.0000.0000.0000..Can't say you're looking good. \Nbut you lucked out.
+Dialogue: 0.0:19:39.93.0:19:44.43.Main.Roberto.0000.0000.0000..That. too. is a talent \Nall good journalists need.
+Dialogue: 0.0:19:49.62.0:19:52.11.Main.Meryl.0000.0000.0000..Vash! Rosa!
+Dialogue: 0.0:20:04.84.0:20:06.06.Main.Meryl.0000.0000.0000..Tonis...
+Dialogue: 0.0:20:06.65.0:20:11.99.Main.Rosa.0000.0000.0000..They took everything. \NThe plant. the people. the town...
+Dialogue: 0.0:20:13.00.0:20:14.91.Main.Rosa.0000.0000.0000..There's no way we can survive now.
+Dialogue: 0.0:20:16.22.0:20:17.24.Main.Vash.0000.0000.0000..Rosa...
+Dialogue: 0.0:20:18.87.0:20:22.57.Main.Rosa.0000.0000.0000..That monster is your brother. right?
+Dialogue: 0.0:20:25.21.0:20:28.10.Main.Vash.0000.0000.0000..I promise I'll get your plant back!
+Dialogue: 0.0:20:28.10.0:20:29.65.Main.Vash.0000.0000.0000..No matter how long it takes...
+Dialogue: 0.0:20:29.65.0:20:31.08.Main.Rosa.0000.0000.0000..Go away.
+Dialogue: 0.0:20:31.86.0:20:35.48.Main.Rosa.0000.0000.0000..Get out of this town right now.
+Dialogue: 0.0:20:36.85.0:20:41.13.Main.Rosa.0000.0000.0000..If you hadn't come here. \Nnone of this would have happened.
+Dialogue: 0.0:20:41.86.0:20:44.51.Main.Rosa.0000.0000.0000..Don't you ever show your face here again...
+Dialogue: 0.0:20:45.27.0:20:47.36.Main.Rosa.0000.0000.0000..Humanoid Typhoon.
+Dialogue: 0.0:21:08.93.0:21:10.15.Main.Meryl.0000.0000.0000..Vash!
+Dialogue: 0.0:21:12.38.0:21:13.59.Main.Meryl.0000.0000.0000..Vash!
+Dialogue: 0.0:21:15.01.0:21:16.14.Main.Meryl.0000.0000.0000..Vash!
+Dialogue: 0.0:21:16.67.0:21:18.11.Main.Meryl.0000.0000.0000..Vash!
+Dialogue: 0.0:21:36.32.0:21:37.42.Main.Meryl.0000.0000.0000..How?
+Dialogue: 0.0:21:38.88.0:21:40.55.Main.Meryl.0000.0000.0000..How. after all they said to you...
+Dialogue: 0.0:21:44.12.0:21:46.66.Main.Meryl.0000.0000.0000..How can you smile like that?
+Dialogue: 0.0:21:49.11.0:21:52.78.Main.Vash.0000.0000.0000..I don't deserve to cry.
+Dialogue: 0.0:21:56.04.0:21:57.06.Main.Meryl.0000.0000.0000..Where are you going?
+Dialogue: 0.0:22:00.09.0:22:01.16.Main.Vash.0000.0000.0000..East.
+Dialogue: 0.0:22:02.47.0:22:03.59.Main.Meryl.0000.0000.0000..East?
+Dialogue: 0.0:22:11.54.0:22:15.82.Main.Vash.0000.0000.0000..Far east. to JuLai. the third city.
+Dialogue: 0.0:22:16.64.0:22:18.45.Main.Vash.0000.0000.0000..That's where he is.
+Dialogue: 0.0:22:20.02.0:22:27.64.Italics.ED Lyrics.0000.0000.0000..Your light...
+Dialogue: 0.0:22:34.10.0:22:38.40.Italics.ED Lyrics.0000.0000.0000..If that light never changes
+Dialogue: 0.0:22:38.40.0:22:42.83.Italics.ED Lyrics.0000.0000.0000..And continues to shine high above the sky
+Dialogue: 0.0:22:42.83.0:22:47.14.Italics.ED Lyrics.0000.0000.0000..Even when I’m lost. \Neven when I’m struggling
+Dialogue: 0.0:22:47.14.0:22:51.39.Italics.ED Lyrics.0000.0000.0000..I’ll continue to search for you
+Dialogue: 0.0:22:51.39.0:22:55.68.Italics.ED Lyrics.0000.0000.0000..Even on days of sickness or sadness
+Dialogue: 0.0:22:55.68.0:23:00.06.Italics.ED Lyrics.0000.0000.0000..I’ll open the window to a new morning
+Dialogue: 0.0:23:00.06.0:23:04.25.Italics.ED Lyrics.0000.0000.0000..I’m moving forward. I’m standing still
+Dialogue: 0.0:23:04.25.0:23:07.81.Italics.ED Lyrics.0000.0000.0000..Tell the people who are praying
+Dialogue: 0.0:23:07.81.0:23:13.77.Italics.ED Lyrics.0000.0000.0000..But today this flower \Nbefore me is praising you
+Dialogue: 0.0:23:13.77.0:23:16.78.Italics.ED Lyrics.0000.0000.0000..My song is a song of joy and wishes
+Dialogue: 0.0:23:16.78.0:23:19.50.Italics.ED Lyrics.0000.0000.0000..Yes. I’m reaching out
+Dialogue: 0.0:23:19.50.0:23:24.84.Italics.ED Lyrics.0000.0000.0000..But you’re too high up \Nin the evening stars
+Dialogue: 0.0:23:24.84.0:23:30.81.Italics.ED Lyrics.0000.0000.0000..But today this flower \Nbefore me is praising you
+Dialogue: 0.0:23:30.81.0:23:33.96.Italics.ED Lyrics.0000.0000.0000..My song is a song of joy and wishes
+Dialogue: 0.0:23:33.96.0:23:36.66.Italics.ED Lyrics.0000.0000.0000..Yes. I try to reach out
+Dialogue: 0.0:23:36.66.0:23:41.82.Italics.ED Lyrics.0000.0000.0000..But you’re too high up \Nin the evening stars
